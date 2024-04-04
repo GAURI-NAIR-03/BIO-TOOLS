@@ -1,0 +1,1000 @@
+1	UMD3.1	chromosome	1	158337067	.	.	.	ID=chromosome:1;Alias=GK000001.2,AC_000158.1
+1	ensembl	rRNA_gene	19774	19899	.	-	.	ID=gene:ENSBTAG00000046619;Name=5S_rRNA;biotype=rRNA;description=5S ribosomal RNA [Source:RFAM%3BAcc:RF00001];gene_id=ENSBTAG00000046619;logic_name=ncrna;version=1
+1	ensembl	rRNA	19774	19899	.	-	.	ID=transcript:ENSBTAT00000064346;Parent=gene:ENSBTAG00000046619;Name=5S_rRNA-201;biotype=rRNA;transcript_id=ENSBTAT00000064346;version=1
+1	ensembl	exon	19774	19899	.	-	.	Parent=transcript:ENSBTAT00000064346;Name=ENSBTAE00000452061;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000452061;rank=1;version=1
+1	firstef	biological_region	19944	20007	0.805	-	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	25247	25319	40.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	pseudogene	34627	35558	.	+	.	ID=gene:ENSBTAG00000006858;biotype=pseudogene;gene_id=ENSBTAG00000006858;logic_name=ensembl;version=5
+1	ensembl	pseudogene	34627	35558	.	+	.	ID=transcript:ENSBTAT00000009004;Parent=gene:ENSBTAG00000006858;biotype=pseudogene;transcript_id=ENSBTAT00000009004;version=5
+1	ensembl	exon	34627	35013	.	+	.	Parent=transcript:ENSBTAT00000009004;Name=ENSBTAE00000408290;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000408290;rank=1;version=2
+1	ensembl	exon	35016	35558	.	+	.	Parent=transcript:ENSBTAT00000009004;Name=ENSBTAE00000393845;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000393845;rank=2;version=1
+1	tRNAscan-SE	biological_region	40725	40797	28.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	49708	49779	28.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	50845	50916	28.9	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	51679	51750	20.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	58349	58421	35	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	64563	64634	42.7	-	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	69695	71121	.	-	.	ID=gene:ENSBTAG00000039257;biotype=protein_coding;gene_id=ENSBTAG00000039257;logic_name=ensembl;version=2
+1	ensembl	mRNA	69695	71121	.	-	.	ID=transcript:ENSBTAT00000052762;Parent=gene:ENSBTAG00000039257;biotype=protein_coding;transcript_id=ENSBTAT00000052762;version=2
+1	ensembl	exon	69695	69712	.	-	.	Parent=transcript:ENSBTAT00000052762;Name=ENSBTAE00000453586;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000453586;rank=5;version=1
+1	ensembl	CDS	69695	69712	.	-	0	ID=CDS:ENSBTAP00000054136;Parent=transcript:ENSBTAT00000052762;protein_id=ENSBTAP00000054136
+1	ensembl	exon	70096	70122	.	-	.	Parent=transcript:ENSBTAT00000052762;Name=ENSBTAE00000481442;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000481442;rank=4;version=1
+1	ensembl	CDS	70096	70122	.	-	0	ID=CDS:ENSBTAP00000054136;Parent=transcript:ENSBTAT00000052762;protein_id=ENSBTAP00000054136
+1	ensembl	exon	70216	70410	.	-	.	Parent=transcript:ENSBTAT00000052762;Name=ENSBTAE00000406865;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000406865;rank=3;version=2
+1	ensembl	CDS	70216	70410	.	-	0	ID=CDS:ENSBTAP00000054136;Parent=transcript:ENSBTAT00000052762;protein_id=ENSBTAP00000054136
+1	ensembl	exon	70413	70856	.	-	.	Parent=transcript:ENSBTAT00000052762;Name=ENSBTAE00000429050;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000429050;rank=2;version=2
+1	ensembl	CDS	70413	70856	.	-	0	ID=CDS:ENSBTAP00000054136;Parent=transcript:ENSBTAT00000052762;protein_id=ENSBTAP00000054136
+1	ensembl	exon	70858	71121	.	-	.	Parent=transcript:ENSBTAT00000052762;Name=ENSBTAE00000406436;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000406436;rank=1;version=1
+1	ensembl	CDS	70858	71121	.	-	0	ID=CDS:ENSBTAP00000054136;Parent=transcript:ENSBTAT00000052762;protein_id=ENSBTAP00000054136
+1	tRNAscan-SE	biological_region	80821	80894	22.3	-	.	external_name=Glu;logic_name=trnascan
+1	ensembl	pseudogene	83323	84281	.	-	.	ID=gene:ENSBTAG00000035349;biotype=pseudogene;gene_id=ENSBTAG00000035349;logic_name=ensembl;version=3
+1	ensembl	pseudogene	83323	84281	.	-	.	ID=transcript:ENSBTAT00000057220;Parent=gene:ENSBTAG00000035349;biotype=pseudogene;transcript_id=ENSBTAT00000057220;version=2
+1	ensembl	exon	83323	83347	.	-	.	Parent=transcript:ENSBTAT00000057220;Name=ENSBTAE00000479041;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSBTAE00000479041;rank=2;version=1
+1	ensembl	exon	83365	84281	.	-	.	Parent=transcript:ENSBTAT00000057220;Name=ENSBTAE00000449634;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000449634;rank=1;version=1
+1	tRNAscan-SE	biological_region	104899	104971	21.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	117652	117723	28.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	122578	122649	26.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	124849	179713	.	-	.	ID=gene:ENSBTAG00000001753;biotype=protein_coding;gene_id=ENSBTAG00000001753;logic_name=ensembl;version=4
+1	ensembl	mRNA	124849	179713	.	-	.	ID=transcript:ENSBTAT00000002299;Parent=gene:ENSBTAG00000001753;biotype=protein_coding;transcript_id=ENSBTAT00000002299;version=4
+1	ensembl	three_prime_UTR	124849	124852	.	-	.	Parent=transcript:ENSBTAT00000002299
+1	ensembl	exon	124849	125014	.	-	.	Parent=transcript:ENSBTAT00000002299;Name=ENSBTAE00000255320;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000255320;rank=6;version=2
+1	ensembl	CDS	124853	125014	.	-	0	ID=CDS:ENSBTAP00000002299;Parent=transcript:ENSBTAT00000002299;protein_id=ENSBTAP00000002299
+1	ensembl	exon	135820	136001	.	-	.	Parent=transcript:ENSBTAT00000002299;Name=ENSBTAE00000018278;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000018278;rank=5;version=1
+1	ensembl	CDS	135820	136001	.	-	2	ID=CDS:ENSBTAP00000002299;Parent=transcript:ENSBTAT00000002299;protein_id=ENSBTAP00000002299
+1	ensembl	exon	137158	137264	.	-	.	Parent=transcript:ENSBTAT00000002299;Name=ENSBTAE00000018277;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000018277;rank=4;version=1
+1	ensembl	CDS	137158	137264	.	-	1	ID=CDS:ENSBTAP00000002299;Parent=transcript:ENSBTAT00000002299;protein_id=ENSBTAP00000002299
+1	ensembl	exon	137834	137959	.	-	.	Parent=transcript:ENSBTAT00000002299;Name=ENSBTAE00000018276;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSBTAE00000018276;rank=3;version=1
+1	ensembl	CDS	137834	137959	.	-	1	ID=CDS:ENSBTAP00000002299;Parent=transcript:ENSBTAT00000002299;protein_id=ENSBTAP00000002299
+1	ensembl	exon	138875	138984	.	-	.	Parent=transcript:ENSBTAT00000002299;Name=ENSBTAE00000455277;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000455277;rank=2;version=1
+1	ensembl	CDS	138875	138984	.	-	0	ID=CDS:ENSBTAP00000002299;Parent=transcript:ENSBTAT00000002299;protein_id=ENSBTAP00000002299
+1	ensembl	exon	178433	179713	.	-	.	Parent=transcript:ENSBTAT00000002299;Name=ENSBTAE00000370233;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000370233;rank=1;version=2
+1	ensembl	CDS	178433	179713	.	-	0	ID=CDS:ENSBTAP00000002299;Parent=transcript:ENSBTAT00000002299;protein_id=ENSBTAP00000002299
+1	tRNAscan-SE	biological_region	132284	132355	29.9	+	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	134803	134874	21.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	135349	135423	21.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	144249	144320	45.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	152227	152298	40.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	157196	157267	25.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	166129	166201	34.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	177974	178392	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	cpg	biological_region	178211	180180	1.99e+03	.	.	external_name=oe %3D 0.96;logic_name=cpg
+1	firstef	biological_region	178433	179463	1	-	.	external_name=rank %3D 3;logic_name=firstef
+1	firstef	biological_region	178670	178738	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	firstef	biological_region	178945	179646	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	179445	179446	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	179553	179558	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	179610	179613	0.999	+	.	external_name=\N;logic_name=eponine
+1	tRNAscan-SE	biological_region	186102	186174	25.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	190181	190253	20.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	194102	194171	21.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	200906	200979	21.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	202530	202610	37.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	209198	209268	45.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	211494	211575	24.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	213145	213216	21.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	221712	221785	23.6	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	221832	221903	32.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	229881	229952	36.5	+	.	external_name=Glu;logic_name=trnascan
+1	cpg	biological_region	241975	243162	1.14e+03	.	.	external_name=oe %3D 0.88;logic_name=cpg
+1	Eponine	biological_region	242216	242220	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	242236	242243	0.999	+	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	242245	242310	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	242292	242301	0.999	+	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	242353	242590	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	242382	242385	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	242433	242433	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	242469	242475	0.999	-	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	242557	242646	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	firstef	biological_region	242578	242639	1	+	.	external_name=rank %3D 5;logic_name=firstef
+1	firstef	biological_region	242580	242716	1	+	.	external_name=rank %3D 6;logic_name=firstef
+1	firstef	biological_region	242580	242982	1	+	.	external_name=rank %3D 7;logic_name=firstef
+1	firstef	biological_region	242667	243239	1	+	.	external_name=rank %3D 4;logic_name=firstef
+1	Eponine	biological_region	242716	242718	0.999	-	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	242720	243750	1	+	.	external_name=rank %3D 3;logic_name=firstef
+1	tRNAscan-SE	biological_region	256165	256236	21.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	256936	257006	39	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	259445	259517	23.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	259653	259724	37.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	264298	264843	.	-	.	ID=gene:ENSBTAG00000005540;Name=CBX3;biotype=protein_coding;description=chromobox protein homolog 3  [Source:RefSeq peptide%3BAcc:NP_001094668];gene_id=ENSBTAG00000005540;logic_name=ensembl;version=4
+1	ensembl	mRNA	264298	264843	.	-	.	ID=transcript:ENSBTAT00000007283;Parent=gene:ENSBTAG00000005540;Name=CBX3-201;biotype=protein_coding;transcript_id=ENSBTAT00000007283;version=4
+1	ensembl	exon	264298	264843	.	-	.	Parent=transcript:ENSBTAT00000007283;Name=ENSBTAE00000058418;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000058418;rank=1;version=4
+1	ensembl	CDS	264298	264843	.	-	0	ID=CDS:ENSBTAP00000007283;Parent=transcript:ENSBTAT00000007283;protein_id=ENSBTAP00000007283
+1	tRNAscan-SE	biological_region	265429	265501	23.4	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	267498	267570	25.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	272908	272979	29	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	278426	278498	30	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	287207	287278	20.9	+	.	external_name=SeC;logic_name=trnascan
+1	tRNAscan-SE	biological_region	289849	289920	23.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	294154	294225	20.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	303417	303488	20.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	311955	312033	31.5	-	.	external_name=Trp;logic_name=trnascan
+1	tRNAscan-SE	biological_region	323178	323251	24.6	+	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	340195	340266	46.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	340773	340844	33.7	-	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	351708	362907	.	+	.	ID=gene:ENSBTAG00000020035;Name=RCAN1;biotype=protein_coding;description=regulator of calcineurin 1 [Source:HGNC Symbol%3BAcc:HGNC:3040];gene_id=ENSBTAG00000020035;logic_name=ensembl;version=4
+1	ensembl	mRNA	351708	362907	.	+	.	ID=transcript:ENSBTAT00000037243;Parent=gene:ENSBTAG00000020035;Name=RCAN1-201;biotype=protein_coding;transcript_id=ENSBTAT00000037243;version=2
+1	ensembl	five_prime_UTR	351708	351787	.	+	.	Parent=transcript:ENSBTAT00000037243
+1	ensembl	exon	351708	351874	.	+	.	Parent=transcript:ENSBTAT00000037243;Name=ENSBTAE00000290819;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=ENSBTAE00000290819;rank=1;version=2
+1	ensembl	CDS	351788	351874	.	+	0	ID=CDS:ENSBTAP00000037080;Parent=transcript:ENSBTAT00000037243;protein_id=ENSBTAP00000037080
+1	ensembl	exon	355064	355237	.	+	.	Parent=transcript:ENSBTAT00000037243;Name=ENSBTAE00000217228;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000217228;rank=2;version=1
+1	ensembl	CDS	355064	355237	.	+	0	ID=CDS:ENSBTAP00000037080;Parent=transcript:ENSBTAT00000037243;protein_id=ENSBTAP00000037080
+1	ensembl	exon	357793	357952	.	+	.	Parent=transcript:ENSBTAT00000037243;Name=ENSBTAE00000217230;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000217230;rank=3;version=1
+1	ensembl	CDS	357793	357952	.	+	0	ID=CDS:ENSBTAP00000037080;Parent=transcript:ENSBTAT00000037243;protein_id=ENSBTAP00000037080
+1	ensembl	CDS	361136	361308	.	+	2	ID=CDS:ENSBTAP00000037080;Parent=transcript:ENSBTAT00000037243;protein_id=ENSBTAP00000037080
+1	ensembl	exon	361136	362907	.	+	.	Parent=transcript:ENSBTAT00000037243;Name=ENSBTAE00000290821;constitutive=1;ensembl_end_phase=-1;ensembl_phase=1;exon_id=ENSBTAE00000290821;rank=4;version=1
+1	ensembl	three_prime_UTR	361309	362907	.	+	.	Parent=transcript:ENSBTAT00000037243
+1	firstef	biological_region	351724	351874	0.991	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	355430	355498	20.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	356390	356481	0.591	+	.	external_name=rank %3D 1;logic_name=firstef
+1	firstef	biological_region	357993	358610	0.999	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	360578	360649	29.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	360900	360966	35.1	-	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	369151	369222	26.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	369270	369340	24.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	375018	375089	39.3	+	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	376347	376419	43	-	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	384274	384346	34	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	387370	387442	56.4	+	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	387764	387835	27.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	389684	389756	23.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	396481	396553	31.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	400251	401074	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	401171	401171	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	401175	401179	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	401181	401188	0.999	-	.	external_name=\N;logic_name=eponine
+1	ensembl	gene	401206	407700	.	+	.	ID=gene:ENSBTAG00000001150;biotype=protein_coding;gene_id=ENSBTAG00000001150;logic_name=ensembl;version=2
+1	ensembl	mRNA	401206	407700	.	+	.	ID=transcript:ENSBTAT00000001530;Parent=gene:ENSBTAG00000001150;biotype=protein_coding;transcript_id=ENSBTAT00000001530;version=2
+1	ensembl	exon	401206	401277	.	+	.	Parent=transcript:ENSBTAT00000001530;Name=ENSBTAE00000370227;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000370227;rank=1;version=1
+1	ensembl	five_prime_UTR	401206	401277	.	+	.	Parent=transcript:ENSBTAT00000001530
+1	ensembl	exon	402257	402351	.	+	.	Parent=transcript:ENSBTAT00000001530;Name=ENSBTAE00000370226;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000370226;rank=2;version=1
+1	ensembl	five_prime_UTR	402257	402351	.	+	.	Parent=transcript:ENSBTAT00000001530
+1	ensembl	five_prime_UTR	407073	407122	.	+	.	Parent=transcript:ENSBTAT00000001530
+1	ensembl	exon	407073	407700	.	+	.	Parent=transcript:ENSBTAT00000001530;Name=ENSBTAE00000012230;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000012230;rank=3;version=2
+1	ensembl	CDS	407123	407512	.	+	0	ID=CDS:ENSBTAP00000001530;Parent=transcript:ENSBTAT00000001530;protein_id=ENSBTAP00000001530
+1	ensembl	three_prime_UTR	407513	407700	.	+	.	Parent=transcript:ENSBTAT00000001530
+1	firstef	biological_region	401216	401277	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	401278	401283	0.999	-	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	401362	402351	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	tRNAscan-SE	biological_region	409514	409585	43.2	-	.	external_name=Arg;logic_name=trnascan
+1	tRNAscan-SE	biological_region	411433	411504	35.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	415094	415164	23.4	-	.	external_name=Arg;logic_name=trnascan
+1	tRNAscan-SE	biological_region	415625	415697	27.7	+	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	417094	417165	40.9	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	421945	422280	.	+	.	ID=gene:ENSBTAG00000026259;biotype=protein_coding;gene_id=ENSBTAG00000026259;logic_name=ensembl;version=3
+1	ensembl	mRNA	421945	422280	.	+	.	ID=transcript:ENSBTAT00000037244;Parent=gene:ENSBTAG00000026259;biotype=protein_coding;transcript_id=ENSBTAT00000037244;version=3
+1	ensembl	exon	421945	422280	.	+	.	Parent=transcript:ENSBTAT00000037244;Name=ENSBTAE00000460951;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000460951;rank=1;version=1
+1	ensembl	CDS	421945	422280	.	+	0	ID=CDS:ENSBTAP00000037081;Parent=transcript:ENSBTAT00000037244;protein_id=ENSBTAP00000037081
+1	tRNAscan-SE	biological_region	424151	424223	49.2	+	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	424270	424341	22.9	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	429867	429939	36.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	429986	430059	22.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	435044	435115	33.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	437075	437228	0.776	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	441888	441960	50.2	-	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	444987	445058	20.8	+	.	external_name=Asp;logic_name=trnascan
+1	tRNAscan-SE	biological_region	449437	449508	30.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	453856	453927	35.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	459812	460830	.	-	.	ID=gene:ENSBTAG00000013841;biotype=protein_coding;gene_id=ENSBTAG00000013841;logic_name=ensembl;version=2
+1	ensembl	mRNA	459812	460830	.	-	.	ID=transcript:ENSBTAT00000018387;Parent=gene:ENSBTAG00000013841;biotype=protein_coding;transcript_id=ENSBTAT00000018387;version=2
+1	ensembl	three_prime_UTR	459812	460010	.	-	.	Parent=transcript:ENSBTAT00000018387
+1	ensembl	exon	459812	460830	.	-	.	Parent=transcript:ENSBTAT00000018387;Name=ENSBTAE00000149544;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000149544;rank=1;version=2
+1	ensembl	CDS	460011	460766	.	-	0	ID=CDS:ENSBTAP00000018387;Parent=transcript:ENSBTAT00000018387;protein_id=ENSBTAP00000018387
+1	ensembl	five_prime_UTR	460767	460830	.	-	.	Parent=transcript:ENSBTAT00000018387
+1	ensembl	gene	463572	478996	.	-	.	ID=gene:ENSBTAG00000011528;biotype=protein_coding;gene_id=ENSBTAG00000011528;logic_name=ensembl;version=2
+1	ensembl	mRNA	463572	478996	.	-	.	ID=transcript:ENSBTAT00000015319;Parent=gene:ENSBTAG00000011528;biotype=protein_coding;transcript_id=ENSBTAT00000015319;version=2
+1	ensembl	exon	463572	463746	.	-	.	Parent=transcript:ENSBTAT00000015319;Name=ENSBTAE00000428344;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000428344;rank=4;version=1
+1	ensembl	three_prime_UTR	463572	463746	.	-	.	Parent=transcript:ENSBTAT00000015319
+1	ensembl	three_prime_UTR	466228	466240	.	-	.	Parent=transcript:ENSBTAT00000015319
+1	ensembl	exon	466228	466405	.	-	.	Parent=transcript:ENSBTAT00000015319;Name=ENSBTAE00000124339;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000124339;rank=3;version=2
+1	ensembl	CDS	466241	466405	.	-	0	ID=CDS:ENSBTAP00000015319;Parent=transcript:ENSBTAT00000015319;protein_id=ENSBTAP00000015319
+1	ensembl	CDS	472787	472798	.	-	0	ID=CDS:ENSBTAP00000015319;Parent=transcript:ENSBTAT00000015319;protein_id=ENSBTAP00000015319
+1	ensembl	exon	472787	472885	.	-	.	Parent=transcript:ENSBTAT00000015319;Name=ENSBTAE00000397165;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=ENSBTAE00000397165;rank=2;version=1
+1	ensembl	five_prime_UTR	472799	472885	.	-	.	Parent=transcript:ENSBTAT00000015319
+1	ensembl	exon	478935	478996	.	-	.	Parent=transcript:ENSBTAT00000015319;Name=ENSBTAE00000415064;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000415064;rank=1;version=1
+1	ensembl	five_prime_UTR	478935	478996	.	-	.	Parent=transcript:ENSBTAT00000015319
+1	firstef	biological_region	478340	478515	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	cpg	biological_region	478775	479563	796	.	.	external_name=oe %3D 0.96;logic_name=cpg
+1	Eponine	biological_region	478867	478870	0.999	-	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	478875	479210	0.998	+	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	478905	478907	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	479149	479152	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	479182	479186	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	479237	479240	0.999	-	.	external_name=\N;logic_name=eponine
+1	ensembl	gene	484627	492432	.	-	.	ID=gene:ENSBTAG00000026260;Name=KCNE2;biotype=protein_coding;description=potassium voltage-gated channel subfamily E regulatory subunit 2 [Source:HGNC Symbol%3BAcc:HGNC:6242];gene_id=ENSBTAG00000026260;logic_name=ensembl;version=2
+1	ensembl	mRNA	484627	492432	.	-	.	ID=transcript:ENSBTAT00000037245;Parent=gene:ENSBTAG00000026260;Name=KCNE2-201;biotype=protein_coding;transcript_id=ENSBTAT00000037245;version=2
+1	ensembl	three_prime_UTR	484627	484913	.	-	.	Parent=transcript:ENSBTAT00000037245
+1	ensembl	exon	484627	485297	.	-	.	Parent=transcript:ENSBTAT00000037245;Name=ENSBTAE00000290829;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000290829;rank=2;version=2
+1	ensembl	CDS	484914	485285	.	-	0	ID=CDS:ENSBTAP00000037082;Parent=transcript:ENSBTAT00000037245;protein_id=ENSBTAP00000037082
+1	ensembl	five_prime_UTR	485286	485297	.	-	.	Parent=transcript:ENSBTAT00000037245
+1	ensembl	exon	492327	492432	.	-	.	Parent=transcript:ENSBTAT00000037245;Name=ENSBTAE00000370222;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000370222;rank=1;version=1
+1	ensembl	five_prime_UTR	492327	492432	.	-	.	Parent=transcript:ENSBTAT00000037245
+1	tRNAscan-SE	biological_region	488730	488802	29.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	494229	494299	27.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	499173	499244	50.2	+	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	501115	501186	36.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	530855	530925	21.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	536820	536891	24.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	538778	538850	26.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	546825	546896	48	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	550060	550131	33.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	554621	554692	37.7	-	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	559139	559877	.	+	.	ID=gene:ENSBTAG00000045984;biotype=protein_coding;gene_id=ENSBTAG00000045984;logic_name=ensembl;version=1
+1	ensembl	mRNA	559139	559877	.	+	.	ID=transcript:ENSBTAT00000064418;Parent=gene:ENSBTAG00000045984;biotype=protein_coding;transcript_id=ENSBTAT00000064418;version=1
+1	ensembl	exon	559139	559158	.	+	.	Parent=transcript:ENSBTAT00000064418;Name=ENSBTAE00000469556;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000469556;rank=1;version=1
+1	ensembl	CDS	559139	559158	.	+	0	ID=CDS:ENSBTAP00000056471;Parent=transcript:ENSBTAT00000064418;protein_id=ENSBTAP00000056471
+1	ensembl	exon	559503	559637	.	+	.	Parent=transcript:ENSBTAT00000064418;Name=ENSBTAE00000442385;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSBTAE00000442385;rank=2;version=1
+1	ensembl	CDS	559503	559637	.	+	1	ID=CDS:ENSBTAP00000056471;Parent=transcript:ENSBTAT00000064418;protein_id=ENSBTAP00000056471
+1	ensembl	exon	559841	559877	.	+	.	Parent=transcript:ENSBTAT00000064418;Name=ENSBTAE00000472988;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSBTAE00000472988;rank=3;version=1
+1	ensembl	CDS	559841	559877	.	+	1	ID=CDS:ENSBTAP00000056471;Parent=transcript:ENSBTAT00000064418;protein_id=ENSBTAP00000056471
+1	tRNAscan-SE	biological_region	561920	561990	30	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	566345	566416	29.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	583402	583473	20.4	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	597108	597180	23.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	616953	617025	28.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	622851	622922	29.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	624591	624663	31.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	649467	649539	25.7	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	651699	651770	41.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	654914	655157	0.849	-	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	659199	659272	29.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	660028	660100	24.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	660764	660835	24.6	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	669920	733729	.	-	.	ID=gene:ENSBTAG00000012594;Name=MRPS6;biotype=protein_coding;description=Bos taurus mitochondrial ribosomal protein S6 (MRPS6)%2C mRNA. [Source:RefSeq mRNA%3BAcc:NM_001040584];gene_id=ENSBTAG00000012594;logic_name=ensembl;version=5
+1	ensembl	mRNA	669920	733729	.	-	.	ID=transcript:ENSBTAT00000016717;Parent=gene:ENSBTAG00000012594;Name=MRPS6-201;biotype=protein_coding;transcript_id=ENSBTAT00000016717;version=5
+1	ensembl	three_prime_UTR	669920	670291	.	-	.	Parent=transcript:ENSBTAT00000016717
+1	ensembl	exon	669920	670481	.	-	.	Parent=transcript:ENSBTAT00000016717;Name=ENSBTAE00000368730;constitutive=1;ensembl_end_phase=-1;ensembl_phase=2;exon_id=ENSBTAE00000368730;rank=3;version=3
+1	ensembl	CDS	670292	670481	.	-	1	ID=CDS:ENSBTAP00000016717;Parent=transcript:ENSBTAT00000016717;protein_id=ENSBTAP00000016717
+1	ensembl	exon	686166	686315	.	-	.	Parent=transcript:ENSBTAT00000016717;Name=ENSBTAE00000469998;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSBTAE00000469998;rank=2;version=1
+1	ensembl	CDS	686166	686315	.	-	1	ID=CDS:ENSBTAP00000016717;Parent=transcript:ENSBTAT00000016717;protein_id=ENSBTAP00000016717
+1	ensembl	CDS	733563	733588	.	-	0	ID=CDS:ENSBTAP00000016717;Parent=transcript:ENSBTAT00000016717;protein_id=ENSBTAP00000016717
+1	ensembl	exon	733563	733729	.	-	.	Parent=transcript:ENSBTAT00000016717;Name=ENSBTAE00000477814;constitutive=1;ensembl_end_phase=2;ensembl_phase=-1;exon_id=ENSBTAE00000477814;rank=1;version=1
+1	ensembl	five_prime_UTR	733589	733729	.	-	.	Parent=transcript:ENSBTAT00000016717
+1	tRNAscan-SE	biological_region	670961	671035	36.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	680291	680461	0.789	-	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	683860	683932	34	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	692254	692326	37.1	-	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	699325	699396	23.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	699444	699515	21.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	699676	699749	24.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	pseudogene	709515	710143	.	-	.	ID=gene:ENSBTAG00000046118;biotype=pseudogene;gene_id=ENSBTAG00000046118;logic_name=ensembl;version=1
+1	ensembl	pseudogene	709515	710143	.	-	.	ID=transcript:ENSBTAT00000064644;Parent=gene:ENSBTAG00000046118;biotype=pseudogene;transcript_id=ENSBTAT00000064644;version=1
+1	ensembl	exon	709515	709876	.	-	.	Parent=transcript:ENSBTAT00000064644;Name=ENSBTAE00000443124;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000443124;rank=3;version=1
+1	ensembl	exon	709879	709884	.	-	.	Parent=transcript:ENSBTAT00000064644;Name=ENSBTAE00000460308;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000460308;rank=2;version=1
+1	ensembl	exon	709886	710143	.	-	.	Parent=transcript:ENSBTAT00000064644;Name=ENSBTAE00000457079;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000457079;rank=1;version=1
+1	cpg	biological_region	733576	734527	1.24e+03	.	.	external_name=oe %3D 0.88;logic_name=cpg
+1	Eponine	biological_region	733779	733786	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	733812	733819	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	733867	733871	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	733893	733900	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	734206	734211	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	734216	734217	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	734222	734226	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	734240	734247	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	734286	734288	0.999	-	.	external_name=\N;logic_name=eponine
+1	tRNAscan-SE	biological_region	738793	738865	29.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	744389	744461	32.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	snRNA_gene	750707	750813	.	+	.	ID=gene:ENSBTAG00000047487;Name=U6;biotype=snRNA;description=U6 spliceosomal RNA [Source:RFAM%3BAcc:RF00026];gene_id=ENSBTAG00000047487;logic_name=ncrna;version=1
+1	ensembl	snRNA	750707	750813	.	+	.	ID=transcript:ENSBTAT00000064231;Parent=gene:ENSBTAG00000047487;Name=U6-201;biotype=snRNA;transcript_id=ENSBTAT00000064231;version=1
+1	ensembl	exon	750707	750813	.	+	.	Parent=transcript:ENSBTAT00000064231;Name=ENSBTAE00000465251;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000465251;rank=1;version=1
+1	tRNAscan-SE	biological_region	754590	754661	20.4	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	756452	756523	27.9	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	765618	765690	25.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	776464	776535	26.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	784478	784550	26.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	807786	807857	35.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	813448	813519	34.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	832629	832700	23.7	+	.	external_name=Arg;logic_name=trnascan
+1	tRNAscan-SE	biological_region	852423	852494	25.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	856111	856183	34.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	867694	867765	27.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	870984	871055	36.3	-	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	872011	872081	28.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	873207	873275	23	+	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	873601	873687	0.815	-	.	external_name=rank %3D 1;logic_name=firstef
+1	firstef	biological_region	878351	878422	0.557	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	884747	884819	24.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	885094	885166	33.9	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	886767	886837	40.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	895902	895973	33.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	907086	907158	23.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	910137	910209	41.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	912980	913051	42.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	915068	915139	26.2	-	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	919271	919343	34.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	921686	922552	0.998	-	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	922635	929992	.	+	.	ID=gene:ENSBTAG00000018278;biotype=protein_coding;description=ATP synthase subunit O%2C mitochondrial  [Source:UniProtKB/Swiss-Prot%3BAcc:P13621];gene_id=ENSBTAG00000018278;logic_name=ensembl;version=5
+1	ensembl	mRNA	922635	929992	.	+	.	ID=transcript:ENSBTAT00000024326;Parent=gene:ENSBTAG00000018278;biotype=protein_coding;transcript_id=ENSBTAT00000024326;version=2
+1	ensembl	five_prime_UTR	922635	922664	.	+	.	Parent=transcript:ENSBTAT00000024326
+1	ensembl	exon	922635	922700	.	+	.	Parent=transcript:ENSBTAT00000024326;Name=ENSBTAE00000197898;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=ENSBTAE00000197898;rank=1;version=1
+1	ensembl	CDS	922665	922700	.	+	0	ID=CDS:ENSBTAP00000024326;Parent=transcript:ENSBTAT00000024326;protein_id=ENSBTAP00000024326
+1	ensembl	exon	924037	924087	.	+	.	Parent=transcript:ENSBTAT00000024326;Name=ENSBTAE00000401349;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000401349;rank=2;version=1
+1	ensembl	CDS	924037	924087	.	+	0	ID=CDS:ENSBTAP00000024326;Parent=transcript:ENSBTAT00000024326;protein_id=ENSBTAP00000024326
+1	ensembl	exon	925034	925144	.	+	.	Parent=transcript:ENSBTAT00000024326;Name=ENSBTAE00000197900;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000197900;rank=3;version=1
+1	ensembl	CDS	925034	925144	.	+	0	ID=CDS:ENSBTAP00000024326;Parent=transcript:ENSBTAT00000024326;protein_id=ENSBTAP00000024326
+1	ensembl	exon	927298	927427	.	+	.	Parent=transcript:ENSBTAT00000024326;Name=ENSBTAE00000197901;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000197901;rank=4;version=1
+1	ensembl	CDS	927298	927427	.	+	0	ID=CDS:ENSBTAP00000024326;Parent=transcript:ENSBTAT00000024326;protein_id=ENSBTAP00000024326
+1	ensembl	exon	928110	928222	.	+	.	Parent=transcript:ENSBTAT00000024326;Name=ENSBTAE00000197902;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000197902;rank=5;version=1
+1	ensembl	CDS	928110	928222	.	+	2	ID=CDS:ENSBTAP00000024326;Parent=transcript:ENSBTAT00000024326;protein_id=ENSBTAP00000024326
+1	ensembl	exon	929448	929534	.	+	.	Parent=transcript:ENSBTAT00000024326;Name=ENSBTAE00000398411;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000398411;rank=6;version=1
+1	ensembl	CDS	929448	929534	.	+	0	ID=CDS:ENSBTAP00000024326;Parent=transcript:ENSBTAT00000024326;protein_id=ENSBTAP00000024326
+1	ensembl	CDS	929812	929925	.	+	0	ID=CDS:ENSBTAP00000024326;Parent=transcript:ENSBTAT00000024326;protein_id=ENSBTAP00000024326
+1	ensembl	exon	929812	929992	.	+	.	Parent=transcript:ENSBTAT00000024326;Name=ENSBTAE00000197904;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000197904;rank=7;version=2
+1	ensembl	three_prime_UTR	929926	929992	.	+	.	Parent=transcript:ENSBTAT00000024326
+1	firstef	biological_region	922834	923535	0.99	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	923600	923671	25.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	944294	1188287	.	-	.	ID=gene:ENSBTAG00000021997;Name=ITSN1;biotype=protein_coding;description=intersectin 1 [Source:HGNC Symbol%3BAcc:HGNC:6183];gene_id=ENSBTAG00000021997;logic_name=ensembl;version=5
+1	ensembl	mRNA	944294	1188287	.	-	.	ID=transcript:ENSBTAT00000029333;Parent=gene:ENSBTAG00000021997;Name=ITSN1-201;biotype=protein_coding;transcript_id=ENSBTAT00000029333;version=5
+1	ensembl	exon	944294	944442	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000239644;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000239644;rank=40;version=1
+1	ensembl	CDS	944294	944442	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	948145	948318	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000456428;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000456428;rank=39;version=1
+1	ensembl	CDS	948145	948318	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	950316	950399	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000239642;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000239642;rank=38;version=1
+1	ensembl	CDS	950316	950399	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	950722	950804	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000239641;constitutive=0;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000239641;rank=37;version=3
+1	ensembl	CDS	950722	950804	.	-	1	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	951808	951929	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000369306;constitutive=0;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000369306;rank=36;version=1
+1	ensembl	CDS	951808	951929	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	953936	954148	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000239638;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000239638;rank=35;version=3
+1	ensembl	CDS	953936	954148	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	958047	958214	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000239637;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000239637;rank=34;version=1
+1	ensembl	CDS	958047	958214	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	964257	964355	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000239636;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000239636;rank=33;version=2
+1	ensembl	CDS	964257	964355	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	966301	966484	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259610;constitutive=0;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSBTAE00000259610;rank=32;version=1
+1	ensembl	CDS	966301	966484	.	-	1	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	973064	973170	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259611;constitutive=0;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000259611;rank=31;version=1
+1	ensembl	CDS	973064	973170	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	974997	975118	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259612;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259612;rank=30;version=1
+1	ensembl	CDS	974997	975118	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	998812	999003	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000444781;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000444781;rank=29;version=1
+1	ensembl	CDS	998812	999003	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1000934	1001051	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259615;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000259615;rank=28;version=1
+1	ensembl	CDS	1000934	1001051	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1004447	1004568	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259616;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259616;rank=27;version=1
+1	ensembl	CDS	1004447	1004568	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1006971	1007016	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000012207;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000012207;rank=26;version=1
+1	ensembl	CDS	1006971	1007016	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1010841	1011007	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000012205;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000012205;rank=25;version=1
+1	ensembl	CDS	1010841	1011007	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1015143	1015225	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000012203;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000012203;rank=24;version=1
+1	ensembl	CDS	1015143	1015225	.	-	1	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1016458	1016663	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000012201;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000012201;rank=23;version=2
+1	ensembl	CDS	1016458	1016663	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1020327	1020486	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000012215;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSBTAE00000012215;rank=22;version=1
+1	ensembl	CDS	1020327	1020486	.	-	1	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1022529	1022776	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000012214;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000012214;rank=21;version=1
+1	ensembl	CDS	1022529	1022776	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1033072	1033193	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000148319;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000148319;rank=20;version=1
+1	ensembl	CDS	1033072	1033193	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1034206	1034435	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259619;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000259619;rank=19;version=1
+1	ensembl	CDS	1034206	1034435	.	-	1	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1038617	1038744	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259621;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000259621;rank=18;version=1
+1	ensembl	CDS	1038617	1038744	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1060459	1060598	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259624;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259624;rank=17;version=1
+1	ensembl	CDS	1060459	1060598	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1060722	1060809	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259625;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000259625;rank=16;version=1
+1	ensembl	CDS	1060722	1060809	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1068329	1068469	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259628;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000259628;rank=15;version=1
+1	ensembl	CDS	1068329	1068469	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1068555	1068704	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259629;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000259629;rank=14;version=1
+1	ensembl	CDS	1068555	1068704	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1071457	1071719	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259630;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259630;rank=13;version=1
+1	ensembl	CDS	1071457	1071719	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1075933	1076048	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259631;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000259631;rank=12;version=1
+1	ensembl	CDS	1075933	1076048	.	-	1	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1077609	1077746	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259632;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSBTAE00000259632;rank=11;version=1
+1	ensembl	CDS	1077609	1077746	.	-	1	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1080597	1080660	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259605;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000259605;rank=10;version=1
+1	ensembl	CDS	1080597	1080660	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1083813	1083913	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000369201;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000369201;rank=9;version=1
+1	ensembl	CDS	1083813	1083913	.	-	1	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1087241	1087337	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259637;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000259637;rank=8;version=1
+1	ensembl	CDS	1087241	1087337	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1089043	1089222	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259638;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000259638;rank=7;version=1
+1	ensembl	CDS	1089043	1089222	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1099358	1099518	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259640;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000259640;rank=6;version=1
+1	ensembl	CDS	1099358	1099518	.	-	1	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1110876	1110925	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259641;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000259641;rank=5;version=2
+1	ensembl	CDS	1110876	1110925	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1111266	1111270	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000481429;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000481429;rank=4;version=1
+1	ensembl	CDS	1111266	1111270	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1111912	1112013	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000259642;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000259642;rank=3;version=2
+1	ensembl	CDS	1111912	1112013	.	-	2	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	CDS	1114136	1114163	.	-	0	ID=CDS:ENSBTAP00000029333;Parent=transcript:ENSBTAT00000029333;protein_id=ENSBTAP00000029333
+1	ensembl	exon	1114136	1114195	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000370088;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSBTAE00000370088;rank=2;version=1
+1	ensembl	five_prime_UTR	1114164	1114195	.	-	.	Parent=transcript:ENSBTAT00000029333
+1	ensembl	exon	1188147	1188287	.	-	.	Parent=transcript:ENSBTAT00000029333;Name=ENSBTAE00000370089;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000370089;rank=1;version=1
+1	ensembl	five_prime_UTR	1188147	1188287	.	-	.	Parent=transcript:ENSBTAT00000029333
+1	ensembl	mRNA	998197	1114163	.	-	.	ID=transcript:ENSBTAT00000065213;Parent=gene:ENSBTAG00000021997;Name=ITSN1-202;biotype=protein_coding;transcript_id=ENSBTAT00000065213;version=1
+1	ensembl	exon	998197	998425	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000447900;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000447900;rank=29;version=1
+1	ensembl	three_prime_UTR	998197	998425	.	-	.	Parent=transcript:ENSBTAT00000065213
+1	ensembl	three_prime_UTR	998812	998812	.	-	.	Parent=transcript:ENSBTAT00000065213
+1	ensembl	exon	998812	999003	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000456230;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=ENSBTAE00000456230;rank=28;version=1
+1	ensembl	CDS	998813	999003	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1000934	1001051	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259615;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000259615;rank=27;version=1
+1	ensembl	CDS	1000934	1001051	.	-	0	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1004447	1004568	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259616;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259616;rank=26;version=1
+1	ensembl	CDS	1004447	1004568	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1006971	1007016	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000012207;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000012207;rank=25;version=1
+1	ensembl	CDS	1006971	1007016	.	-	0	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1010841	1011007	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000012205;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000012205;rank=24;version=1
+1	ensembl	CDS	1010841	1011007	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1015143	1015225	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000012203;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000012203;rank=23;version=1
+1	ensembl	CDS	1015143	1015225	.	-	1	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1016458	1016663	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000012201;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000012201;rank=22;version=2
+1	ensembl	CDS	1016458	1016663	.	-	0	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1020327	1020486	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000012215;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSBTAE00000012215;rank=21;version=1
+1	ensembl	CDS	1020327	1020486	.	-	1	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1022529	1022776	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000012214;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000012214;rank=20;version=1
+1	ensembl	CDS	1022529	1022776	.	-	0	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1033072	1033193	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000148319;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000148319;rank=19;version=1
+1	ensembl	CDS	1033072	1033193	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1034206	1034435	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259619;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000259619;rank=18;version=1
+1	ensembl	CDS	1034206	1034435	.	-	1	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1038617	1038744	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259621;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000259621;rank=17;version=1
+1	ensembl	CDS	1038617	1038744	.	-	0	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1060459	1060598	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259624;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259624;rank=16;version=1
+1	ensembl	CDS	1060459	1060598	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1060722	1060809	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259625;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000259625;rank=15;version=1
+1	ensembl	CDS	1060722	1060809	.	-	0	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1068329	1068469	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259628;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000259628;rank=14;version=1
+1	ensembl	CDS	1068329	1068469	.	-	0	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1068555	1068704	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259629;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000259629;rank=13;version=1
+1	ensembl	CDS	1068555	1068704	.	-	0	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1071457	1071719	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259630;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259630;rank=12;version=1
+1	ensembl	CDS	1071457	1071719	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1075933	1076048	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259631;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000259631;rank=11;version=1
+1	ensembl	CDS	1075933	1076048	.	-	1	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1077609	1077746	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259632;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSBTAE00000259632;rank=10;version=1
+1	ensembl	CDS	1077609	1077746	.	-	1	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1080597	1080660	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259605;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000259605;rank=9;version=1
+1	ensembl	CDS	1080597	1080660	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1083813	1083913	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000369201;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000369201;rank=8;version=1
+1	ensembl	CDS	1083813	1083913	.	-	1	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1087241	1087337	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259637;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000259637;rank=7;version=1
+1	ensembl	CDS	1087241	1087337	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1089043	1089222	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259638;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000259638;rank=6;version=1
+1	ensembl	CDS	1089043	1089222	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1099358	1099518	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259640;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000259640;rank=5;version=1
+1	ensembl	CDS	1099358	1099518	.	-	1	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1110876	1110925	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259641;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000259641;rank=4;version=2
+1	ensembl	CDS	1110876	1110925	.	-	0	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1111266	1111270	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000481429;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000481429;rank=3;version=1
+1	ensembl	CDS	1111266	1111270	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1111912	1112013	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000259642;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000259642;rank=2;version=2
+1	ensembl	CDS	1111912	1112013	.	-	2	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	ensembl	exon	1114136	1114163	.	-	.	Parent=transcript:ENSBTAT00000065213;Name=ENSBTAE00000482495;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000482495;rank=1;version=1
+1	ensembl	CDS	1114136	1114163	.	-	0	ID=CDS:ENSBTAP00000055481;Parent=transcript:ENSBTAT00000065213;protein_id=ENSBTAP00000055481
+1	firstef	biological_region	950316	950617	0.989	-	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	958784	958857	29.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	959343	959423	23	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	963518	963589	60.2	+	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	963877	963948	42.5	+	.	external_name=Cys;logic_name=trnascan
+1	firstef	biological_region	964621	964792	0.576	+	.	external_name=rank %3D 1;logic_name=firstef
+1	firstef	biological_region	968415	969418	0.997	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	970411	970481	34.6	+	.	external_name=SeC;logic_name=trnascan
+1	firstef	biological_region	972761	972973	0.614	-	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	975331	975405	29.1	+	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	982912	982983	29.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	986447	986518	24.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	996613	996685	33	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1013048	1013120	24.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1015389	1015461	37.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1015971	1016043	25.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1024867	1024938	25.7	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1028634	1028705	29.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1035727	1035798	20.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1044131	1044202	24.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1048190	1048261	40.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1058586	1058657	25.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1064033	1064105	20.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	1071457	1071608	0.821	-	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	1072150	1072222	27.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1079212	1079283	30.6	+	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1093196	1093268	33.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1098363	1098434	30.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1098749	1098821	28.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1105444	1105515	36.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1108309	1108381	30.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1112793	1112863	20.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1118029	1118100	22.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1126322	1126394	40.8	-	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1129926	1129998	30	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1151706	1151777	40.8	-	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1152671	1152743	28.5	+	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1155216	1155282	20.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1156858	1156929	30.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1158372	1158441	23	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1161011	1161082	27.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1177228	1177298	21.7	-	.	external_name=Cys;logic_name=trnascan
+1	firstef	biological_region	1186794	1187446	1	-	.	external_name=rank %3D 3;logic_name=firstef
+1	firstef	biological_region	1187314	1187382	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	cpg	biological_region	1187380	1189390	1.18e+03	.	.	external_name=oe %3D 0.92;logic_name=cpg
+1	Eponine	biological_region	1187640	1187642	0.999	+	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1187655	1187721	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	Eponine	biological_region	1187791	1187793	0.999	+	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1187804	1187894	1	+	.	external_name=rank %3D 5;logic_name=firstef
+1	firstef	biological_region	1187804	1187984	1	+	.	external_name=rank %3D 6;logic_name=firstef
+1	firstef	biological_region	1187804	1187998	1	+	.	external_name=rank %3D 3;logic_name=firstef
+1	firstef	biological_region	1188147	1188363	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	Eponine	biological_region	1188221	1188221	0.999	+	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1188374	1188475	1	+	.	external_name=rank %3D 4;logic_name=firstef
+1	firstef	biological_region	1188374	1189283	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	1189228	1222846	.	+	.	ID=gene:ENSBTAG00000008490;Name=CRYZL1;biotype=protein_coding;description=crystallin zeta like 1 [Source:HGNC Symbol%3BAcc:HGNC:2420];gene_id=ENSBTAG00000008490;logic_name=ensembl;version=5
+1	ensembl	mRNA	1189228	1222846	.	+	.	ID=transcript:ENSBTAT00000049681;Parent=gene:ENSBTAG00000008490;Name=CRYZL1-201;biotype=protein_coding;transcript_id=ENSBTAT00000049681;version=2
+1	ensembl	exon	1189228	1189283	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000416528;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000416528;rank=1;version=1
+1	ensembl	five_prime_UTR	1189228	1189283	.	+	.	Parent=transcript:ENSBTAT00000049681
+1	ensembl	five_prime_UTR	1197951	1197956	.	+	.	Parent=transcript:ENSBTAT00000049681
+1	ensembl	exon	1197951	1198022	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000090955;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=ENSBTAE00000090955;rank=2;version=4
+1	ensembl	CDS	1197957	1198022	.	+	0	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1199592	1199669	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000259649;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000259649;rank=3;version=1
+1	ensembl	CDS	1199592	1199669	.	+	0	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1200398	1200470	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000090957;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000090957;rank=4;version=1
+1	ensembl	CDS	1200398	1200470	.	+	0	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1202511	1202555	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000090958;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000090958;rank=5;version=2
+1	ensembl	CDS	1202511	1202555	.	+	2	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1204234	1204302	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000090959;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000090959;rank=6;version=1
+1	ensembl	CDS	1204234	1204302	.	+	2	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1212849	1212982	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000090962;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000090962;rank=7;version=2
+1	ensembl	CDS	1212849	1212982	.	+	2	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1214109	1214220	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000090963;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000090963;rank=8;version=1
+1	ensembl	CDS	1214109	1214220	.	+	0	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1216477	1216575	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000443813;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000443813;rank=9;version=1
+1	ensembl	CDS	1216477	1216575	.	+	2	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1218231	1218352	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000446252;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000446252;rank=10;version=1
+1	ensembl	CDS	1218231	1218352	.	+	2	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1219381	1219486	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000463830;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000463830;rank=11;version=1
+1	ensembl	CDS	1219381	1219486	.	+	0	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1221873	1221918	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000481559;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000481559;rank=12;version=1
+1	ensembl	CDS	1221873	1221918	.	+	2	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	CDS	1222459	1222558	.	+	1	ID=CDS:ENSBTAP00000046541;Parent=transcript:ENSBTAT00000049681;protein_id=ENSBTAP00000046541
+1	ensembl	exon	1222459	1222846	.	+	.	Parent=transcript:ENSBTAT00000049681;Name=ENSBTAE00000466604;constitutive=1;ensembl_end_phase=-1;ensembl_phase=2;exon_id=ENSBTAE00000466604;rank=13;version=1
+1	ensembl	three_prime_UTR	1222559	1222846	.	+	.	Parent=transcript:ENSBTAT00000049681
+1	tRNAscan-SE	biological_region	1202783	1202854	23.6	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1215737	1215807	35.9	-	.	external_name=Trp;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1216973	1217044	28.9	+	.	external_name=Pseudo;logic_name=trnascan
+1	cpg	biological_region	1223102	1224182	1.62e+03	.	.	external_name=oe %3D 0.94;logic_name=cpg
+1	firstef	biological_region	1223239	1223938	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	1223324	1223327	0.999	+	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1223328	1223901	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	1223360	1223361	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1223453	1223457	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1223539	1223542	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1223576	1223581	0.999	-	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1223585	1223947	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	ensembl	gene	1223586	1233673	.	+	.	ID=gene:ENSBTAG00000035175;Name=DONSON;biotype=protein_coding;description=downstream neighbor of SON [Source:HGNC Symbol%3BAcc:HGNC:2993];gene_id=ENSBTAG00000035175;logic_name=ensembl;version=3
+1	ensembl	mRNA	1223586	1233673	.	+	.	ID=transcript:ENSBTAT00000049667;Parent=gene:ENSBTAG00000035175;Name=DONSON-201;biotype=protein_coding;transcript_id=ENSBTAT00000049667;version=2
+1	ensembl	five_prime_UTR	1223586	1223604	.	+	.	Parent=transcript:ENSBTAT00000049667
+1	ensembl	exon	1223586	1223901	.	+	.	Parent=transcript:ENSBTAT00000049667;Name=ENSBTAE00000379991;constitutive=0;ensembl_end_phase=0;ensembl_phase=-1;exon_id=ENSBTAE00000379991;rank=1;version=1
+1	ensembl	CDS	1223605	1223901	.	+	0	ID=CDS:ENSBTAP00000046527;Parent=transcript:ENSBTAT00000049667;protein_id=ENSBTAP00000046527
+1	ensembl	exon	1224653	1224733	.	+	.	Parent=transcript:ENSBTAT00000049667;Name=ENSBTAE00000454068;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000454068;rank=2;version=1
+1	ensembl	CDS	1224653	1224733	.	+	0	ID=CDS:ENSBTAP00000046527;Parent=transcript:ENSBTAT00000049667;protein_id=ENSBTAP00000046527
+1	ensembl	exon	1225667	1225870	.	+	.	Parent=transcript:ENSBTAT00000049667;Name=ENSBTAE00000457145;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000457145;rank=3;version=1
+1	ensembl	CDS	1225667	1225870	.	+	0	ID=CDS:ENSBTAP00000046527;Parent=transcript:ENSBTAT00000049667;protein_id=ENSBTAP00000046527
+1	ensembl	exon	1226773	1226951	.	+	.	Parent=transcript:ENSBTAT00000049667;Name=ENSBTAE00000444880;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000444880;rank=4;version=1
+1	ensembl	CDS	1226773	1226951	.	+	0	ID=CDS:ENSBTAP00000046527;Parent=transcript:ENSBTAT00000049667;protein_id=ENSBTAP00000046527
+1	ensembl	exon	1228165	1228343	.	+	.	Parent=transcript:ENSBTAT00000049667;Name=ENSBTAE00000476296;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000476296;rank=5;version=1
+1	ensembl	CDS	1228165	1228343	.	+	1	ID=CDS:ENSBTAP00000046527;Parent=transcript:ENSBTAT00000049667;protein_id=ENSBTAP00000046527
+1	ensembl	exon	1228967	1229048	.	+	.	Parent=transcript:ENSBTAT00000049667;Name=ENSBTAE00000443831;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000443831;rank=6;version=1
+1	ensembl	CDS	1228967	1229048	.	+	2	ID=CDS:ENSBTAP00000046527;Parent=transcript:ENSBTAT00000049667;protein_id=ENSBTAP00000046527
+1	ensembl	exon	1229157	1229261	.	+	.	Parent=transcript:ENSBTAT00000049667;Name=ENSBTAE00000454992;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSBTAE00000454992;rank=7;version=1
+1	ensembl	CDS	1229157	1229261	.	+	1	ID=CDS:ENSBTAP00000046527;Parent=transcript:ENSBTAT00000049667;protein_id=ENSBTAP00000046527
+1	ensembl	exon	1230108	1230306	.	+	.	Parent=transcript:ENSBTAT00000049667;Name=ENSBTAE00000474242;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSBTAE00000474242;rank=8;version=1
+1	ensembl	CDS	1230108	1230306	.	+	1	ID=CDS:ENSBTAP00000046527;Parent=transcript:ENSBTAT00000049667;protein_id=ENSBTAP00000046527
+1	ensembl	exon	1231486	1231698	.	+	.	Parent=transcript:ENSBTAT00000049667;Name=ENSBTAE00000467638;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000467638;rank=9;version=1
+1	ensembl	CDS	1231486	1231698	.	+	0	ID=CDS:ENSBTAP00000046527;Parent=transcript:ENSBTAT00000049667;protein_id=ENSBTAP00000046527
+1	ensembl	CDS	1232874	1233011	.	+	0	ID=CDS:ENSBTAP00000046527;Parent=transcript:ENSBTAT00000049667;protein_id=ENSBTAP00000046527
+1	ensembl	exon	1232874	1233673	.	+	.	Parent=transcript:ENSBTAT00000049667;Name=ENSBTAE00000442753;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000442753;rank=10;version=1
+1	ensembl	three_prime_UTR	1233012	1233673	.	+	.	Parent=transcript:ENSBTAT00000049667
+1	ensembl	mRNA	1223605	1233673	.	+	.	ID=transcript:ENSBTAT00000049671;Parent=gene:ENSBTAG00000035175;Name=DONSON-202;biotype=protein_coding;transcript_id=ENSBTAT00000049671;version=2
+1	ensembl	exon	1223605	1223646	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000379111;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000379111;rank=1;version=1
+1	ensembl	CDS	1223605	1223646	.	+	0	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1223849	1223901	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000403525;constitutive=0;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000403525;rank=2;version=1
+1	ensembl	CDS	1223849	1223901	.	+	0	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1223997	1224200	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000404175;constitutive=0;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSBTAE00000404175;rank=3;version=1
+1	ensembl	CDS	1223997	1224200	.	+	1	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1224453	1224471	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000474202;constitutive=0;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSBTAE00000474202;rank=4;version=1
+1	ensembl	CDS	1224453	1224471	.	+	1	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1224653	1224733	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000454068;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000454068;rank=5;version=1
+1	ensembl	CDS	1224653	1224733	.	+	0	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1225667	1225870	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000457145;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000457145;rank=6;version=1
+1	ensembl	CDS	1225667	1225870	.	+	0	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1226773	1226951	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000444880;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000444880;rank=7;version=1
+1	ensembl	CDS	1226773	1226951	.	+	0	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1228165	1228343	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000476296;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000476296;rank=8;version=1
+1	ensembl	CDS	1228165	1228343	.	+	1	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1228967	1229048	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000443831;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000443831;rank=9;version=1
+1	ensembl	CDS	1228967	1229048	.	+	2	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1229157	1229261	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000454992;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSBTAE00000454992;rank=10;version=1
+1	ensembl	CDS	1229157	1229261	.	+	1	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1230108	1230306	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000474242;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSBTAE00000474242;rank=11;version=1
+1	ensembl	CDS	1230108	1230306	.	+	1	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1231486	1231698	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000467638;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000467638;rank=12;version=1
+1	ensembl	CDS	1231486	1231698	.	+	0	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	CDS	1232874	1233011	.	+	0	ID=CDS:ENSBTAP00000046531;Parent=transcript:ENSBTAT00000049671;protein_id=ENSBTAP00000046531
+1	ensembl	exon	1232874	1233673	.	+	.	Parent=transcript:ENSBTAT00000049671;Name=ENSBTAE00000442753;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000442753;rank=13;version=1
+1	ensembl	three_prime_UTR	1233012	1233673	.	+	.	Parent=transcript:ENSBTAT00000049671
+1	Eponine	biological_region	1223610	1223615	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1223642	1223644	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1223666	1223672	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1223699	1223705	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1223782	1223783	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1223802	1223806	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1223967	1223970	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1224045	1224050	0.999	+	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1224278	1224344	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	firstef	biological_region	1224278	1224939	1	+	.	external_name=rank %3D 3;logic_name=firstef
+1	tRNAscan-SE	biological_region	1229369	1229441	44.9	-	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1230429	1230501	27.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	1233910	1264762	.	-	.	ID=gene:ENSBTAG00000008482;Name=SON;biotype=protein_coding;description=SON DNA binding protein [Source:HGNC Symbol%3BAcc:HGNC:11183];gene_id=ENSBTAG00000008482;logic_name=ensembl;version=5
+1	ensembl	mRNA	1233910	1264762	.	-	.	ID=transcript:ENSBTAT00000011175;Parent=gene:ENSBTAG00000008482;Name=SON-201;biotype=protein_coding;transcript_id=ENSBTAT00000011175;version=5
+1	ensembl	three_prime_UTR	1233910	1234655	.	-	.	Parent=transcript:ENSBTAT00000011175
+1	ensembl	exon	1233910	1234814	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090909;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000090909;rank=13;version=2
+1	ensembl	CDS	1234656	1234814	.	-	0	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1235334	1235449	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090907;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000090907;rank=12;version=1
+1	ensembl	CDS	1235334	1235449	.	-	2	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1235551	1235622	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090904;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000090904;rank=11;version=1
+1	ensembl	CDS	1235551	1235622	.	-	2	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1237406	1237553	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090900;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000090900;rank=10;version=1
+1	ensembl	CDS	1237406	1237553	.	-	0	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1241586	1241702	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090897;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000090897;rank=9;version=1
+1	ensembl	CDS	1241586	1241702	.	-	0	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1242713	1242823	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090895;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000090895;rank=8;version=1
+1	ensembl	CDS	1242713	1242823	.	-	0	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1249923	1250111	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090893;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000090893;rank=7;version=1
+1	ensembl	CDS	1249923	1250111	.	-	0	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1250305	1250451	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090887;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000090887;rank=6;version=1
+1	ensembl	CDS	1250305	1250451	.	-	0	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1252354	1252514	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000259658;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259658;rank=5;version=1
+1	ensembl	CDS	1252354	1252514	.	-	2	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1253812	1256955	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090859;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000090859;rank=4;version=2
+1	ensembl	CDS	1253812	1256955	.	-	2	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1257913	1259715	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090845;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000090845;rank=3;version=5
+1	ensembl	CDS	1257913	1259715	.	-	2	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1261471	1261637	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090844;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000090844;rank=2;version=1
+1	ensembl	CDS	1261471	1261637	.	-	1	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	CDS	1264637	1264713	.	-	0	ID=CDS:ENSBTAP00000011175;Parent=transcript:ENSBTAT00000011175;protein_id=ENSBTAP00000011175
+1	ensembl	exon	1264637	1264762	.	-	.	Parent=transcript:ENSBTAT00000011175;Name=ENSBTAE00000090841;constitutive=1;ensembl_end_phase=2;ensembl_phase=-1;exon_id=ENSBTAE00000090841;rank=1;version=3
+1	ensembl	five_prime_UTR	1264714	1264762	.	-	.	Parent=transcript:ENSBTAT00000011175
+1	cpg	biological_region	1264221	1265792	499	.	.	external_name=oe %3D 0.88;logic_name=cpg
+1	firstef	biological_region	1264637	1264758	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	firstef	biological_region	1264882	1265793	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	1265632	1265633	0.999	+	.	external_name=\N;logic_name=eponine
+1	ensembl	gene	1265743	1292028	.	+	.	ID=gene:ENSBTAG00000009188;Name=GART;biotype=protein_coding;description=phosphoribosylglycinamide formyltransferase%2C phosphoribosylglycinamide synthetase%2C phosphoribosylaminoimidazole synthetase [Source:HGNC Symbol%3BAcc:HGNC:4163];gene_id=ENSBTAG00000009188;logic_name=ensembl;version=4
+1	ensembl	mRNA	1265743	1292028	.	+	.	ID=transcript:ENSBTAT00000012108;Parent=gene:ENSBTAG00000009188;Name=GART-201;biotype=protein_coding;transcript_id=ENSBTAT00000012108;version=3
+1	ensembl	exon	1265743	1265793	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000369007;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000369007;rank=1;version=1
+1	ensembl	five_prime_UTR	1265743	1265793	.	+	.	Parent=transcript:ENSBTAT00000012108
+1	ensembl	five_prime_UTR	1268479	1268519	.	+	.	Parent=transcript:ENSBTAT00000012108
+1	ensembl	exon	1268479	1268664	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098511;constitutive=1;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSBTAE00000098511;rank=2;version=2
+1	ensembl	CDS	1268520	1268664	.	+	0	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1269747	1269842	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098512;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000098512;rank=3;version=1
+1	ensembl	CDS	1269747	1269842	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1270320	1270494	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098513;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000098513;rank=4;version=1
+1	ensembl	CDS	1270320	1270494	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1273739	1273850	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098514;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSBTAE00000098514;rank=5;version=1
+1	ensembl	CDS	1273739	1273850	.	+	1	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1274820	1274888	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098515;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000098515;rank=6;version=1
+1	ensembl	CDS	1274820	1274888	.	+	0	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1275391	1275516	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098517;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000098517;rank=7;version=1
+1	ensembl	CDS	1275391	1275516	.	+	0	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1276594	1276681	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098519;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000098519;rank=8;version=2
+1	ensembl	CDS	1276594	1276681	.	+	0	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1277170	1277255	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098522;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000098522;rank=9;version=1
+1	ensembl	CDS	1277170	1277255	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1277420	1277588	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098523;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000098523;rank=10;version=1
+1	ensembl	CDS	1277420	1277588	.	+	0	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1280562	1280793	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098524;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000098524;rank=11;version=1
+1	ensembl	CDS	1280562	1280793	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1282672	1282766	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098525;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000098525;rank=12;version=1
+1	ensembl	CDS	1282672	1282766	.	+	1	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1283061	1283170	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098526;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000098526;rank=13;version=1
+1	ensembl	CDS	1283061	1283170	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1283513	1283711	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098527;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000098527;rank=14;version=1
+1	ensembl	CDS	1283513	1283711	.	+	0	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1284754	1285005	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000045325;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000045325;rank=15;version=2
+1	ensembl	CDS	1284754	1285005	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1285298	1285450	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098529;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000098529;rank=16;version=1
+1	ensembl	CDS	1285298	1285450	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1287454	1287660	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098530;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000098530;rank=17;version=1
+1	ensembl	CDS	1287454	1287660	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1288746	1288883	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098531;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000098531;rank=18;version=1
+1	ensembl	CDS	1288746	1288883	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1289877	1290007	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098532;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000098532;rank=19;version=1
+1	ensembl	CDS	1289877	1290007	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1290249	1290390	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098534;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000098534;rank=20;version=1
+1	ensembl	CDS	1290249	1290390	.	+	0	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1291048	1291163	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098536;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000098536;rank=21;version=1
+1	ensembl	CDS	1291048	1291163	.	+	2	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	CDS	1291246	1291437	.	+	0	ID=CDS:ENSBTAP00000012108;Parent=transcript:ENSBTAT00000012108;protein_id=ENSBTAP00000012108
+1	ensembl	exon	1291246	1292028	.	+	.	Parent=transcript:ENSBTAT00000012108;Name=ENSBTAE00000098538;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000098538;rank=22;version=2
+1	ensembl	three_prime_UTR	1291438	1292028	.	+	.	Parent=transcript:ENSBTAT00000012108
+1	tRNAscan-SE	biological_region	1285771	1285842	39.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1301033	1301253	20.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1304020	1304091	23.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	1306813	1307167	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	cpg	biological_region	1306928	1307631	413	.	.	external_name=oe %3D 1.00;logic_name=cpg
+1	firstef	biological_region	1307139	1307209	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	firstef	biological_region	1307280	1307348	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	firstef	biological_region	1307280	1307353	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	ensembl	gene	1308527	1310072	.	+	.	ID=gene:ENSBTAG00000009187;Name=DNAJC28;biotype=protein_coding;description=DnaJ heat shock protein family (Hsp40) member C28 [Source:HGNC Symbol%3BAcc:HGNC:1297];gene_id=ENSBTAG00000009187;logic_name=ensembl;version=5
+1	ensembl	mRNA	1308527	1310072	.	+	.	ID=transcript:ENSBTAT00000012106;Parent=gene:ENSBTAG00000009187;Name=DNAJC28-201;biotype=protein_coding;transcript_id=ENSBTAT00000012106;version=5
+1	ensembl	exon	1308527	1309681	.	+	.	Parent=transcript:ENSBTAT00000012106;Name=ENSBTAE00000098509;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000098509;rank=1;version=5
+1	ensembl	CDS	1308527	1309681	.	+	0	ID=CDS:ENSBTAP00000012106;Parent=transcript:ENSBTAT00000012106;protein_id=ENSBTAP00000012106
+1	ensembl	exon	1310061	1310072	.	+	.	Parent=transcript:ENSBTAT00000012106;Name=ENSBTAE00000463233;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000463233;rank=2;version=1
+1	ensembl	CDS	1310061	1310072	.	+	0	ID=CDS:ENSBTAP00000012106;Parent=transcript:ENSBTAT00000012106;protein_id=ENSBTAP00000012106
+1	tRNAscan-SE	biological_region	1310977	1311049	35.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1311435	1311507	21	-	.	external_name=Undet;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1316604	1316676	40.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1316940	1317012	28.7	-	.	external_name=Pseudo;logic_name=trnascan
+1	cpg	biological_region	1324217	1325004	1.12e+03	.	.	external_name=oe %3D 1.01;logic_name=cpg
+1	firstef	biological_region	1324232	1324698	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	1324490	1324494	0.999	+	.	external_name=\N;logic_name=eponine
+1	ensembl	gene	1324544	1361378	.	+	.	ID=gene:ENSBTAG00000001258;Name=TMEM50B;biotype=protein_coding;description=transmembrane protein 50B [Source:HGNC Symbol%3BAcc:HGNC:1280];gene_id=ENSBTAG00000001258;logic_name=ensembl;version=2
+1	ensembl	mRNA	1324544	1361378	.	+	.	ID=transcript:ENSBTAT00000001660;Parent=gene:ENSBTAG00000001258;Name=TMEM50B-201;biotype=protein_coding;transcript_id=ENSBTAT00000001660;version=2
+1	ensembl	exon	1324544	1324644	.	+	.	Parent=transcript:ENSBTAT00000001660;Name=ENSBTAE00000259674;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000259674;rank=1;version=1
+1	ensembl	five_prime_UTR	1324544	1324644	.	+	.	Parent=transcript:ENSBTAT00000001660
+1	ensembl	five_prime_UTR	1342975	1343015	.	+	.	Parent=transcript:ENSBTAT00000001660
+1	ensembl	exon	1342975	1343114	.	+	.	Parent=transcript:ENSBTAT00000001660;Name=ENSBTAE00000259673;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=ENSBTAE00000259673;rank=2;version=1
+1	ensembl	CDS	1343016	1343114	.	+	0	ID=CDS:ENSBTAP00000001660;Parent=transcript:ENSBTAT00000001660;protein_id=ENSBTAP00000001660
+1	ensembl	exon	1345087	1345199	.	+	.	Parent=transcript:ENSBTAT00000001660;Name=ENSBTAE00000013290;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000013290;rank=3;version=1
+1	ensembl	CDS	1345087	1345199	.	+	0	ID=CDS:ENSBTAP00000001660;Parent=transcript:ENSBTAT00000001660;protein_id=ENSBTAP00000001660
+1	ensembl	exon	1346484	1346551	.	+	.	Parent=transcript:ENSBTAT00000001660;Name=ENSBTAE00000013292;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000013292;rank=4;version=1
+1	ensembl	CDS	1346484	1346551	.	+	1	ID=CDS:ENSBTAP00000001660;Parent=transcript:ENSBTAT00000001660;protein_id=ENSBTAP00000001660
+1	ensembl	exon	1353536	1353628	.	+	.	Parent=transcript:ENSBTAT00000001660;Name=ENSBTAE00000013293;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000013293;rank=5;version=1
+1	ensembl	CDS	1353536	1353628	.	+	2	ID=CDS:ENSBTAP00000001660;Parent=transcript:ENSBTAT00000001660;protein_id=ENSBTAP00000001660
+1	ensembl	exon	1356404	1356461	.	+	.	Parent=transcript:ENSBTAT00000001660;Name=ENSBTAE00000013295;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000013295;rank=6;version=1
+1	ensembl	CDS	1356404	1356461	.	+	2	ID=CDS:ENSBTAP00000001660;Parent=transcript:ENSBTAT00000001660;protein_id=ENSBTAP00000001660
+1	ensembl	CDS	1359903	1359948	.	+	1	ID=CDS:ENSBTAP00000001660;Parent=transcript:ENSBTAT00000001660;protein_id=ENSBTAP00000001660
+1	ensembl	exon	1359903	1361378	.	+	.	Parent=transcript:ENSBTAT00000001660;Name=ENSBTAE00000013297;constitutive=1;ensembl_end_phase=-1;ensembl_phase=2;exon_id=ENSBTAE00000013297;rank=7;version=2
+1	ensembl	three_prime_UTR	1359949	1361378	.	+	.	Parent=transcript:ENSBTAT00000001660
+1	Eponine	biological_region	1324636	1324641	0.999	-	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1325031	1325255	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	firstef	biological_region	1325031	1325775	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	1328651	1328722	28.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1332306	1332377	35.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1336747	1336820	25.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1338588	1338660	30.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1342567	1342639	23.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1343884	1343955	38.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1351326	1351396	32.6	+	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1355143	1355215	27.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1359232	1359302	24.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1361563	1361635	43.8	-	.	external_name=Glu;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1362565	1362637	30.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1363751	1363822	27.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1364441	1364512	31.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1366233	1366303	22	-	.	external_name=Ser;logic_name=trnascan
+1	ensembl	snoRNA_gene	1367493	1367618	.	-	.	ID=gene:ENSBTAG00000043399;Name=SNORA20;biotype=snoRNA;description=Small nucleolar RNA SNORA20 [Source:RFAM%3BAcc:RF00401];gene_id=ENSBTAG00000043399;logic_name=ncrna;version=2
+1	ensembl	snoRNA	1367493	1367618	.	-	.	ID=transcript:ENSBTAT00000060391;Parent=gene:ENSBTAG00000043399;Name=SNORA20-201;biotype=snoRNA;transcript_id=ENSBTAT00000060391;version=2
+1	ensembl	exon	1367493	1367618	.	-	.	Parent=transcript:ENSBTAT00000060391;Name=ENSBTAE00000433684;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000433684;rank=1;version=2
+1	tRNAscan-SE	biological_region	1369223	1369294	25.7	-	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	1376827	1397948	.	-	.	ID=gene:ENSBTAG00000012899;Name=IFNGR2;biotype=protein_coding;description=interferon gamma receptor 2 [Source:HGNC Symbol%3BAcc:HGNC:5440];gene_id=ENSBTAG00000012899;logic_name=ensembl;version=4
+1	ensembl	mRNA	1376827	1397948	.	-	.	ID=transcript:ENSBTAT00000017147;Parent=gene:ENSBTAG00000012899;Name=IFNGR2-201;biotype=protein_coding;transcript_id=ENSBTAT00000017147;version=4
+1	ensembl	exon	1376827	1377009	.	-	.	Parent=transcript:ENSBTAT00000017147;Name=ENSBTAE00000410973;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000410973;rank=6;version=1
+1	ensembl	CDS	1376827	1377009	.	-	0	ID=CDS:ENSBTAP00000017147;Parent=transcript:ENSBTAT00000017147;protein_id=ENSBTAP00000017147
+1	ensembl	exon	1380895	1381052	.	-	.	Parent=transcript:ENSBTAT00000017147;Name=ENSBTAE00000139251;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000139251;rank=5;version=1
+1	ensembl	CDS	1380895	1381052	.	-	2	ID=CDS:ENSBTAP00000017147;Parent=transcript:ENSBTAT00000017147;protein_id=ENSBTAP00000017147
+1	ensembl	exon	1381756	1381915	.	-	.	Parent=transcript:ENSBTAT00000017147;Name=ENSBTAE00000139250;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000139250;rank=4;version=1
+1	ensembl	CDS	1381756	1381915	.	-	0	ID=CDS:ENSBTAP00000017147;Parent=transcript:ENSBTAT00000017147;protein_id=ENSBTAP00000017147
+1	ensembl	exon	1385946	1386091	.	-	.	Parent=transcript:ENSBTAT00000017147;Name=ENSBTAE00000139249;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000139249;rank=3;version=2
+1	ensembl	CDS	1385946	1386091	.	-	2	ID=CDS:ENSBTAP00000017147;Parent=transcript:ENSBTAT00000017147;protein_id=ENSBTAP00000017147
+1	ensembl	exon	1390364	1390572	.	-	.	Parent=transcript:ENSBTAT00000017147;Name=ENSBTAE00000259675;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000259675;rank=2;version=3
+1	ensembl	CDS	1390364	1390572	.	-	1	ID=CDS:ENSBTAP00000017147;Parent=transcript:ENSBTAT00000017147;protein_id=ENSBTAP00000017147
+1	ensembl	exon	1397884	1397948	.	-	.	Parent=transcript:ENSBTAT00000017147;Name=ENSBTAE00000411596;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSBTAE00000411596;rank=1;version=1
+1	ensembl	CDS	1397884	1397948	.	-	0	ID=CDS:ENSBTAP00000017147;Parent=transcript:ENSBTAT00000017147;protein_id=ENSBTAP00000017147
+1	tRNAscan-SE	biological_region	1377605	1377677	38.9	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1378197	1378269	42.1	-	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1380596	1380669	42.4	-	.	external_name=Glu;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1383188	1383260	30.6	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1384939	1385011	39.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1385288	1385359	26.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1397632	1397704	39.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	1405758	1406782	1	-	.	external_name=rank %3D 3;logic_name=firstef
+1	cpg	biological_region	1406397	1407816	1.44e+03	.	.	external_name=oe %3D 0.84;logic_name=cpg
+1	firstef	biological_region	1407173	1407586	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	1407220	1407224	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1407238	1407243	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1407304	1407306	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1407325	1407330	0.999	-	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1407333	1407586	1	-	.	external_name=rank %3D 5;logic_name=firstef
+1	Eponine	biological_region	1407355	1407361	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1407357	1407360	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1407395	1407399	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1407409	1407416	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1407444	1407449	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1407485	1407495	0.999	-	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1407515	1407586	1	-	.	external_name=rank %3D 4;logic_name=firstef
+1	firstef	biological_region	1407533	1407601	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	firstef	biological_region	1407916	1408393	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	1411980	1412051	31.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	cpg	biological_region	1418085	1418595	138	.	.	external_name=oe %3D 0.67;logic_name=cpg
+1	tRNAscan-SE	biological_region	1428739	1428810	29.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1432322	1432394	30.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1436963	1437036	25.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1443526	1443597	39.3	+	.	external_name=Tyr;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1444109	1444180	30.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1464422	1464495	41.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1464816	1464888	27.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1466203	1466275	29.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	1467704	1496151	.	-	.	ID=gene:ENSBTAG00000021819;Name=IFNAR1;biotype=protein_coding;description=interferon alpha and beta receptor subunit 1 [Source:HGNC Symbol%3BAcc:HGNC:5432];gene_id=ENSBTAG00000021819;logic_name=ensembl;version=4
+1	ensembl	mRNA	1467704	1496151	.	-	.	ID=transcript:ENSBTAT00000029080;Parent=gene:ENSBTAG00000021819;Name=IFNAR1-201;biotype=protein_coding;transcript_id=ENSBTAT00000029080;version=4
+1	ensembl	three_prime_UTR	1467704	1469125	.	-	.	Parent=transcript:ENSBTAT00000029080
+1	ensembl	exon	1467704	1469365	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000259676;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000259676;rank=11;version=2
+1	ensembl	CDS	1469126	1469365	.	-	0	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	exon	1470593	1470738	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000259677;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259677;rank=10;version=1
+1	ensembl	CDS	1470593	1470738	.	-	2	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	exon	1471230	1471380	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000259679;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000259679;rank=9;version=1
+1	ensembl	CDS	1471230	1471380	.	-	0	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	exon	1475025	1475182	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000259681;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259681;rank=8;version=1
+1	ensembl	CDS	1475025	1475182	.	-	2	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	exon	1475291	1475490	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000259682;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000259682;rank=7;version=1
+1	ensembl	CDS	1475291	1475490	.	-	1	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	exon	1478308	1478422	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000237200;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000237200;rank=6;version=1
+1	ensembl	CDS	1478308	1478422	.	-	2	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	exon	1479960	1480101	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000237198;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000237198;rank=5;version=2
+1	ensembl	CDS	1479960	1480101	.	-	0	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	exon	1480208	1480365	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000259685;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000259685;rank=4;version=1
+1	ensembl	CDS	1480208	1480365	.	-	2	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	exon	1482631	1482812	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000259686;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000259686;rank=3;version=2
+1	ensembl	CDS	1482631	1482812	.	-	1	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	exon	1489897	1490017	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000259687;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000259687;rank=2;version=1
+1	ensembl	CDS	1489897	1490017	.	-	2	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	CDS	1495895	1495964	.	-	0	ID=CDS:ENSBTAP00000029080;Parent=transcript:ENSBTAT00000029080;protein_id=ENSBTAP00000029080
+1	ensembl	exon	1495895	1496151	.	-	.	Parent=transcript:ENSBTAT00000029080;Name=ENSBTAE00000259691;constitutive=1;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSBTAE00000259691;rank=1;version=3
+1	ensembl	five_prime_UTR	1495965	1496151	.	-	.	Parent=transcript:ENSBTAT00000029080
+1	tRNAscan-SE	biological_region	1492565	1492637	24	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1494972	1495043	49.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	cpg	biological_region	1495681	1496700	907	.	.	external_name=oe %3D 0.98;logic_name=cpg
+1	tRNAscan-SE	biological_region	1496633	1496705	24.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1506614	1506686	26.8	-	.	external_name=Lys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1517287	1517359	44.4	-	.	external_name=Gly;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1517472	1517543	32.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1523278	1523349	32.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1532175	1532247	39.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1537573	1537644	26.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1539948	1540019	34.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1542830	1542901	25.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1556581	1556651	21.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	1563137	1591758	.	-	.	ID=gene:ENSBTAG00000019404;biotype=protein_coding;gene_id=ENSBTAG00000019404;logic_name=ensembl;version=5
+1	ensembl	mRNA	1563137	1591758	.	-	.	ID=transcript:ENSBTAT00000025852;Parent=gene:ENSBTAG00000019404;biotype=protein_coding;transcript_id=ENSBTAT00000025852;version=5
+1	ensembl	three_prime_UTR	1563137	1563991	.	-	.	Parent=transcript:ENSBTAT00000025852
+1	ensembl	exon	1563137	1564141	.	-	.	Parent=transcript:ENSBTAT00000025852;Name=ENSBTAE00000210491;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000210491;rank=7;version=3
+1	ensembl	CDS	1563992	1564141	.	-	0	ID=CDS:ENSBTAP00000025852;Parent=transcript:ENSBTAT00000025852;protein_id=ENSBTAP00000025852
+1	ensembl	exon	1570114	1570271	.	-	.	Parent=transcript:ENSBTAT00000025852;Name=ENSBTAE00000210487;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000210487;rank=6;version=2
+1	ensembl	CDS	1570114	1570271	.	-	2	ID=CDS:ENSBTAP00000025852;Parent=transcript:ENSBTAT00000025852;protein_id=ENSBTAP00000025852
+1	ensembl	exon	1577692	1577839	.	-	.	Parent=transcript:ENSBTAT00000025852;Name=ENSBTAE00000210485;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000210485;rank=5;version=3
+1	ensembl	CDS	1577692	1577839	.	-	0	ID=CDS:ENSBTAP00000025852;Parent=transcript:ENSBTAT00000025852;protein_id=ENSBTAP00000025852
+1	ensembl	exon	1582869	1583035	.	-	.	Parent=transcript:ENSBTAT00000025852;Name=ENSBTAE00000210483;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000210483;rank=4;version=2
+1	ensembl	CDS	1582869	1583035	.	-	2	ID=CDS:ENSBTAP00000025852;Parent=transcript:ENSBTAT00000025852;protein_id=ENSBTAP00000025852
+1	ensembl	exon	1584532	1584689	.	-	.	Parent=transcript:ENSBTAT00000025852;Name=ENSBTAE00000210482;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000210482;rank=3;version=1
+1	ensembl	CDS	1584532	1584689	.	-	1	ID=CDS:ENSBTAP00000025852;Parent=transcript:ENSBTAT00000025852;protein_id=ENSBTAP00000025852
+1	ensembl	exon	1589167	1589290	.	-	.	Parent=transcript:ENSBTAT00000025852;Name=ENSBTAE00000210481;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000210481;rank=2;version=3
+1	ensembl	CDS	1589167	1589290	.	-	2	ID=CDS:ENSBTAP00000025852;Parent=transcript:ENSBTAT00000025852;protein_id=ENSBTAP00000025852
+1	ensembl	CDS	1591650	1591698	.	-	0	ID=CDS:ENSBTAP00000025852;Parent=transcript:ENSBTAT00000025852;protein_id=ENSBTAP00000025852
+1	ensembl	exon	1591650	1591758	.	-	.	Parent=transcript:ENSBTAT00000025852;Name=ENSBTAE00000210479;constitutive=1;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSBTAE00000210479;rank=1;version=3
+1	ensembl	five_prime_UTR	1591699	1591758	.	-	.	Parent=transcript:ENSBTAT00000025852
+1	tRNAscan-SE	biological_region	1569312	1569384	26.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1573589	1573661	29.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1576964	1577035	23.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1577509	1577578	21.6	+	.	external_name=Ser;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1581363	1581434	26.6	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1581487	1581558	22.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1582137	1582208	23.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	1582439	1582662	0.522	-	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	1585021	1585092	29.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1590791	1590862	39.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1591095	1591164	29	+	.	external_name=Pseudo;logic_name=trnascan
+1	cpg	biological_region	1591435	1591938	541	.	.	external_name=oe %3D 0.87;logic_name=cpg
+1	Eponine	biological_region	1591505	1591507	0.999	+	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1591534	1591638	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	1591727	1591728	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1591757	1591757	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1591833	1591837	0.999	-	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1591924	1591985	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	1593295	1627137	.	-	.	ID=gene:ENSBTAG00000015212;Name=IFNAR2;biotype=protein_coding;description=interferon alpha and beta receptor subunit 2 [Source:HGNC Symbol%3BAcc:HGNC:5433];gene_id=ENSBTAG00000015212;logic_name=ensembl;version=5
+1	ensembl	mRNA	1593295	1627137	.	-	.	ID=transcript:ENSBTAT00000020239;Parent=gene:ENSBTAG00000015212;Name=IFNAR2-201;biotype=protein_coding;transcript_id=ENSBTAT00000020239;version=5
+1	ensembl	three_prime_UTR	1593295	1594101	.	-	.	Parent=transcript:ENSBTAT00000020239
+1	ensembl	exon	1593295	1594845	.	-	.	Parent=transcript:ENSBTAT00000020239;Name=ENSBTAE00000164994;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSBTAE00000164994;rank=9;version=5
+1	ensembl	CDS	1594102	1594845	.	-	0	ID=CDS:ENSBTAP00000020239;Parent=transcript:ENSBTAT00000020239;protein_id=ENSBTAP00000020239
+1	ensembl	exon	1597674	1597804	.	-	.	Parent=transcript:ENSBTAT00000020239;Name=ENSBTAE00000164988;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000164988;rank=8;version=3
+1	ensembl	CDS	1597674	1597804	.	-	2	ID=CDS:ENSBTAP00000020239;Parent=transcript:ENSBTAT00000020239;protein_id=ENSBTAP00000020239
+1	ensembl	exon	1604203	1604371	.	-	.	Parent=transcript:ENSBTAT00000020239;Name=ENSBTAE00000164987;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSBTAE00000164987;rank=7;version=1
+1	ensembl	CDS	1604203	1604371	.	-	0	ID=CDS:ENSBTAP00000020239;Parent=transcript:ENSBTAT00000020239;protein_id=ENSBTAP00000020239
+1	ensembl	exon	1605769	1605923	.	-	.	Parent=transcript:ENSBTAT00000020239;Name=ENSBTAE00000368606;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSBTAE00000368606;rank=6;version=1
+1	ensembl	CDS	1605769	1605923	.	-	2	ID=CDS:ENSBTAP00000020239;Parent=transcript:ENSBTAT00000020239;protein_id=ENSBTAP00000020239
+1	ensembl	exon	1608024	1608196	.	-	.	Parent=transcript:ENSBTAT00000020239;Name=ENSBTAE00000164980;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSBTAE00000164980;rank=5;version=1
+1	ensembl	CDS	1608024	1608196	.	-	1	ID=CDS:ENSBTAP00000020239;Parent=transcript:ENSBTAT00000020239;protein_id=ENSBTAP00000020239
+1	ensembl	exon	1609921	1610044	.	-	.	Parent=transcript:ENSBTAT00000020239;Name=ENSBTAE00000164978;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSBTAE00000164978;rank=4;version=1
+1	ensembl	CDS	1609921	1610044	.	-	2	ID=CDS:ENSBTAP00000020239;Parent=transcript:ENSBTAT00000020239;protein_id=ENSBTAP00000020239
+1	ensembl	exon	1611655	1611696	.	-	.	Parent=transcript:ENSBTAT00000020239;Name=ENSBTAE00000164976;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSBTAE00000164976;rank=3;version=1
+1	ensembl	CDS	1611655	1611696	.	-	2	ID=CDS:ENSBTAP00000020239;Parent=transcript:ENSBTAT00000020239;protein_id=ENSBTAP00000020239
+1	ensembl	CDS	1615118	1615172	.	-	0	ID=CDS:ENSBTAP00000020239;Parent=transcript:ENSBTAT00000020239;protein_id=ENSBTAP00000020239
+1	ensembl	exon	1615118	1615209	.	-	.	Parent=transcript:ENSBTAT00000020239;Name=ENSBTAE00000164973;constitutive=1;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSBTAE00000164973;rank=2;version=2
+1	ensembl	five_prime_UTR	1615173	1615209	.	-	.	Parent=transcript:ENSBTAT00000020239
+1	ensembl	exon	1626911	1627137	.	-	.	Parent=transcript:ENSBTAT00000020239;Name=ENSBTAE00000368622;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSBTAE00000368622;rank=1;version=2
+1	ensembl	five_prime_UTR	1626911	1627137	.	-	.	Parent=transcript:ENSBTAT00000020239
+1	tRNAscan-SE	biological_region	1607257	1607327	32.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1610415	1610486	35.7	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1611194	1611265	24	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1614706	1614776	20.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1617655	1617744	20.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	1625810	1626779	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	cpg	biological_region	1626231	1627244	967	.	.	external_name=oe %3D 1.00;logic_name=cpg
+1	firstef	biological_region	1626545	1626779	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	firstef	biological_region	1626705	1626776	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	1626777	1626781	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1627168	1627173	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1627201	1627207	0.999	-	.	external_name=\N;logic_name=eponine
+1	tRNAscan-SE	biological_region	1635137	1635208	36.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1636914	1636984	42.9	+	.	external_name=Trp;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1649576	1649646	27	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1663374	1663442	29.8	+	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1665645	1665717	32.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1665871	1665942	31.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1666163	1666234	40.8	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	1675216	1675527	.	+	.	ID=gene:ENSBTAG00000047288;biotype=protein_coding;gene_id=ENSBTAG00000047288;logic_name=ensembl;version=1
+1	ensembl	mRNA	1675216	1675527	.	+	.	ID=transcript:ENSBTAT00000066310;Parent=gene:ENSBTAG00000047288;biotype=protein_coding;transcript_id=ENSBTAT00000066310;version=1
+1	ensembl	exon	1675216	1675527	.	+	.	Parent=transcript:ENSBTAT00000066310;Name=ENSBTAE00000483306;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000483306;rank=1;version=1
+1	ensembl	CDS	1675216	1675527	.	+	0	ID=CDS:ENSBTAP00000056029;Parent=transcript:ENSBTAT00000066310;protein_id=ENSBTAP00000056029
+1	tRNAscan-SE	biological_region	1686922	1686993	20.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1688893	1688965	33.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1689006	1689077	21.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1690313	1690385	38.1	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1690432	1690503	24.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1697890	1697962	35	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1698708	1698780	30	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1698827	1698898	30.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	1700908	1701072	0.742	-	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	1702131	1702203	22	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1705211	1705281	23.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1705530	1705601	22.6	+	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	1709553	1709701	0.588	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	1715487	1715558	27.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1719844	1719914	22.1	-	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	1724909	1725165	0.518	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	1728553	1728624	34.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1729953	1730024	23.2	-	.	external_name=SeC;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1733098	1733169	39.9	+	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	1735588	1735711	0.979	-	.	external_name=rank %3D 1;logic_name=firstef
+1	firstef	biological_region	1736230	1736445	0.974	+	.	external_name=rank %3D 1;logic_name=firstef
+1	tRNAscan-SE	biological_region	1745283	1745357	30.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1758497	1758569	48.7	-	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1758892	1758963	31.2	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1761610	1761682	27.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1762948	1763019	35.7	-	.	external_name=Tyr;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1771388	1771460	25.9	+	.	external_name=Pseudo;logic_name=trnascan
+1	cpg	biological_region	1775438	1777676	2.32e+03	.	.	external_name=oe %3D 0.82;logic_name=cpg
+1	firstef	biological_region	1775903	1776269	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	firstef	biological_region	1776460	1776552	1	+	.	external_name=rank %3D 3;logic_name=firstef
+1	firstef	biological_region	1776460	1776669	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	ensembl	gene	1776499	1777332	.	-	.	ID=gene:ENSBTAG00000037547;Name=OLIG1;biotype=protein_coding;description=oligodendrocyte transcription factor 1  [Source:RefSeq peptide%3BAcc:NP_001193690];gene_id=ENSBTAG00000037547;logic_name=ensembl;version=1
+1	ensembl	mRNA	1776499	1777332	.	-	.	ID=transcript:ENSBTAT00000054480;Parent=gene:ENSBTAG00000037547;Name=OLIG1-201;biotype=protein_coding;transcript_id=ENSBTAT00000054480;version=1
+1	ensembl	exon	1776499	1777332	.	-	.	Parent=transcript:ENSBTAT00000054480;Name=ENSBTAE00000376860;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSBTAE00000376860;rank=1;version=1
+1	ensembl	CDS	1776499	1777332	.	-	0	ID=CDS:ENSBTAP00000052609;Parent=transcript:ENSBTAT00000054480;protein_id=ENSBTAP00000052609
+1	firstef	biological_region	1776503	1777235	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	Eponine	biological_region	1776592	1776596	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1776644	1776647	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1776698	1776701	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1776792	1776794	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1776820	1776821	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1776851	1776853	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1777188	1777189	0.999	+	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1777195	1777262	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	Eponine	biological_region	1777305	1777308	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1777319	1777324	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1777361	1777365	0.999	+	.	external_name=\N;logic_name=eponine
+1	firstef	biological_region	1777402	1777494	1	+	.	external_name=rank %3D 4;logic_name=firstef
+1	Eponine	biological_region	1777403	1777409	0.999	-	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1777457	1777466	0.999	+	.	external_name=\N;logic_name=eponine
+1	Eponine	biological_region	1777486	1777491	0.999	-	.	external_name=\N;logic_name=eponine
+1	tRNAscan-SE	biological_region	1781431	1781502	42.5	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1783438	1783508	45.2	-	.	external_name=Cys;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1786515	1786587	33.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1789156	1789228	29.6	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1790402	1790472	27	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1791340	1791411	30.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1808123	1808194	29	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1809088	1809159	27.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1810813	1810884	25.9	-	.	external_name=Pseudo;logic_name=trnascan
+1	tRNAscan-SE	biological_region	1814253	1814324	28.8	-	.	external_name=Pseudo;logic_name=trnascan
+1	firstef	biological_region	1817707	1818385	1	-	.	external_name=rank %3D 1;logic_name=firstef

@@ -1,0 +1,1000 @@
+1	Oar_v3.1	chromosome	1	275612895	.	.	.	ID=chromosome:1;Alias=CM001582.1,NC_019458.1
+1	.	biological_region	391	821	254	.	.	external_name=oe %3D 0.73;logic_name=cpg
+1	.	biological_region	4853	4924	25.6	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	23392	176938	.	-	.	ID=gene:ENSOARG00000017577;biotype=protein_coding;gene_id=ENSOARG00000017577;logic_name=ensembl;version=1
+1	ensembl	mRNA	23392	176938	.	-	.	ID=transcript:ENSOART00000019126;Parent=gene:ENSOARG00000017577;biotype=protein_coding;transcript_id=ENSOART00000019126;version=1
+1	ensembl	exon	23392	23440	.	-	.	Parent=transcript:ENSOART00000019126;Name=ENSOARE00000174328;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000174328;rank=6;version=1
+1	ensembl	CDS	23392	23440	.	-	1	ID=CDS:ENSOARP00000018859;Parent=transcript:ENSOART00000019126;protein_id=ENSOARP00000018859
+1	ensembl	exon	169734	169827	.	-	.	Parent=transcript:ENSOART00000019126;Name=ENSOARE00000174327;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000174327;rank=5;version=1
+1	ensembl	CDS	169734	169827	.	-	2	ID=CDS:ENSOARP00000018859;Parent=transcript:ENSOART00000019126;protein_id=ENSOARP00000018859
+1	ensembl	exon	169990	170101	.	-	.	Parent=transcript:ENSOART00000019126;Name=ENSOARE00000174325;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000174325;rank=4;version=1
+1	ensembl	CDS	169990	170101	.	-	0	ID=CDS:ENSOARP00000018859;Parent=transcript:ENSOART00000019126;protein_id=ENSOARP00000018859
+1	ensembl	exon	171520	171615	.	-	.	Parent=transcript:ENSOART00000019126;Name=ENSOARE00000174324;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000174324;rank=3;version=1
+1	ensembl	CDS	171520	171615	.	-	0	ID=CDS:ENSOARP00000018859;Parent=transcript:ENSOART00000019126;protein_id=ENSOARP00000018859
+1	ensembl	exon	171618	171685	.	-	.	Parent=transcript:ENSOART00000019126;Name=ENSOARE00000174322;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000174322;rank=2;version=1
+1	ensembl	CDS	171618	171685	.	-	2	ID=CDS:ENSOARP00000018859;Parent=transcript:ENSOART00000019126;protein_id=ENSOARP00000018859
+1	ensembl	exon	176869	176938	.	-	.	Parent=transcript:ENSOART00000019126;Name=ENSOARE00000174320;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000174320;rank=1;version=1
+1	ensembl	CDS	176869	176938	.	-	0	ID=CDS:ENSOARP00000018859;Parent=transcript:ENSOART00000019126;protein_id=ENSOARP00000018859
+1	.	biological_region	25253	25376	0.636	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	32912	33346	0.534	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	40118	40560	260	.	.	external_name=oe %3D 0.81;logic_name=cpg
+1	.	biological_region	40221	40316	0.998	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	40306	40309	0.999	+	.	logic_name=eponine
+1	.	biological_region	40584	40647	0.997	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	41211	41643	144	.	.	external_name=oe %3D 0.63;logic_name=cpg
+1	ensembl	gene	49751	49903	.	+	.	ID=gene:ENSOARG00000020430;biotype=protein_coding;gene_id=ENSOARG00000020430;logic_name=ensembl;version=1
+1	ensembl	mRNA	49751	49903	.	+	.	ID=transcript:ENSOART00000022247;Parent=gene:ENSOARG00000020430;biotype=protein_coding;transcript_id=ENSOART00000022247;version=1
+1	ensembl	exon	49751	49903	.	+	.	Parent=transcript:ENSOART00000022247;Name=ENSOARE00000201413;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000201413;rank=1;version=1
+1	ensembl	CDS	49751	49903	.	+	0	ID=CDS:ENSOARP00000021942;Parent=transcript:ENSOART00000022247;protein_id=ENSOARP00000021942
+1	.	biological_region	53602	53819	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	53865	54281	250	.	.	external_name=oe %3D 0.79;logic_name=cpg
+1	.	biological_region	54153	54630	0.998	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	54900	55803	0.916	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	55775	56197	190	.	.	external_name=oe %3D 0.89;logic_name=cpg
+1	.	biological_region	56238	56415	0.99	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	58603	58674	22.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	59735	59966	0.933	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	59991	60449	172	.	.	external_name=oe %3D 0.71;logic_name=cpg
+1	.	biological_region	60032	60862	0.837	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	66402	66828	168	.	.	external_name=oe %3D 0.85;logic_name=cpg
+1	.	biological_region	66614	66689	0.711	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	71522	71658	0.983	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	71649	71968	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	72012	72469	227	.	.	external_name=oe %3D 0.88;logic_name=cpg
+1	.	biological_region	75758	76287	155	.	.	external_name=oe %3D 0.61;logic_name=cpg
+1	.	biological_region	75766	75894	0.829	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	77354	77743	0.987	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	79475	79760	0.97	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	79835	80467	214	.	.	external_name=oe %3D 0.64;logic_name=cpg
+1	ensembl	gene	79926	87689	.	+	.	ID=gene:ENSOARG00000017587;Name=PDCD1;biotype=protein_coding;description=programmed cell death 1 [Source:HGNC Symbol%3BAcc:HGNC:8760];gene_id=ENSOARG00000017587;logic_name=ensembl;version=1
+1	ensembl	mRNA	79926	87689	.	+	.	ID=transcript:ENSOART00000019136;Parent=gene:ENSOARG00000017587;Name=PDCD1-201;biotype=protein_coding;transcript_id=ENSOART00000019136;version=1
+1	ensembl	exon	79926	80001	.	+	.	Parent=transcript:ENSOART00000019136;Name=ENSOARE00000174425;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000174425;rank=1;version=1
+1	ensembl	CDS	79926	80001	.	+	0	ID=CDS:ENSOARP00000018869;Parent=transcript:ENSOART00000019136;protein_id=ENSOARP00000018869
+1	ensembl	exon	86100	86462	.	+	.	Parent=transcript:ENSOART00000019136;Name=ENSOARE00000174428;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000174428;rank=2;version=1
+1	ensembl	CDS	86100	86462	.	+	2	ID=CDS:ENSOARP00000018869;Parent=transcript:ENSOART00000019136;protein_id=ENSOARP00000018869
+1	ensembl	exon	86781	87062	.	+	.	Parent=transcript:ENSOART00000019136;Name=ENSOARE00000174434;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000174434;rank=3;version=1
+1	ensembl	CDS	86781	87062	.	+	2	ID=CDS:ENSOARP00000018869;Parent=transcript:ENSOART00000019136;protein_id=ENSOARP00000018869
+1	ensembl	exon	87553	87689	.	+	.	Parent=transcript:ENSOART00000019136;Name=ENSOARE00000174436;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000174436;rank=4;version=1
+1	ensembl	CDS	87553	87689	.	+	2	ID=CDS:ENSOARP00000018869;Parent=transcript:ENSOART00000019136;protein_id=ENSOARP00000018869
+1	.	biological_region	80107	80762	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	83984	86597	663	.	.	external_name=oe %3D 0.66;logic_name=cpg
+1	.	biological_region	85568	85659	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	85970	86042	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	86240	86455	1	+	.	external_name=rank %3D 4;logic_name=firstef
+1	.	biological_region	86240	86462	1	+	.	external_name=rank %3D 3;logic_name=firstef
+1	.	biological_region	86240	86709	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	86376	86378	0.999	-	.	logic_name=eponine
+1	.	biological_region	88984	89374	0.988	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	89874	90039	0.987	+	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	lincRNA_gene	91112	96882	.	+	.	ID=gene:ENSOARG00000025485;biotype=lincRNA;gene_id=ENSOARG00000025485;logic_name=ensembl_lincrna;version=1
+1	ensembl	lincRNA	91112	96882	.	+	.	ID=transcript:ENSOART00000027409;Parent=gene:ENSOARG00000025485;biotype=lincRNA;transcript_id=ENSOART00000027409;version=1
+1	ensembl	exon	91112	92128	.	+	.	Parent=transcript:ENSOART00000027409;Name=ENSOARE00000215024;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSOARE00000215024;rank=1;version=1
+1	ensembl	exon	94216	96882	.	+	.	Parent=transcript:ENSOART00000027409;Name=ENSOARE00000215025;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSOARE00000215025;rank=2;version=1
+1	.	biological_region	97648	98145	241	.	.	external_name=oe %3D 0.61;logic_name=cpg
+1	.	biological_region	100867	101897	0.94	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	101554	101683	0.955	-	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	105668	108573	.	-	.	ID=gene:ENSOARG00000017595;Name=GAL3ST2;biotype=protein_coding;description=galactose-3-O-sulfotransferase 2 [Source:HGNC Symbol%3BAcc:HGNC:24869];gene_id=ENSOARG00000017595;logic_name=ensembl;version=1
+1	ensembl	mRNA	105668	108573	.	-	.	ID=transcript:ENSOART00000019146;Parent=gene:ENSOARG00000017595;Name=GAL3ST2-201;biotype=protein_coding;transcript_id=ENSOART00000019146;version=1
+1	ensembl	exon	105668	105982	.	-	.	Parent=transcript:ENSOART00000019146;Name=ENSOARE00000174506;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000174506;rank=5;version=1
+1	ensembl	CDS	105668	105982	.	-	0	ID=CDS:ENSOARP00000018878;Parent=transcript:ENSOART00000019146;protein_id=ENSOARP00000018878
+1	ensembl	exon	106076	106525	.	-	.	Parent=transcript:ENSOART00000019146;Name=ENSOARE00000174504;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000174504;rank=4;version=1
+1	ensembl	CDS	106076	106525	.	-	0	ID=CDS:ENSOARP00000018878;Parent=transcript:ENSOART00000019146;protein_id=ENSOARP00000018878
+1	ensembl	exon	107181	107308	.	-	.	Parent=transcript:ENSOART00000019146;Name=ENSOARE00000174503;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000174503;rank=3;version=1
+1	ensembl	CDS	107181	107308	.	-	2	ID=CDS:ENSOARP00000018878;Parent=transcript:ENSOART00000019146;protein_id=ENSOARP00000018878
+1	ensembl	exon	107663	107790	.	-	.	Parent=transcript:ENSOART00000019146;Name=ENSOARE00000174501;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000174501;rank=2;version=1
+1	ensembl	CDS	107663	107790	.	-	1	ID=CDS:ENSOARP00000018878;Parent=transcript:ENSOART00000019146;protein_id=ENSOARP00000018878
+1	ensembl	exon	108458	108573	.	-	.	Parent=transcript:ENSOART00000019146;Name=ENSOARE00000174499;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000174499;rank=1;version=1
+1	ensembl	CDS	108458	108573	.	-	0	ID=CDS:ENSOARP00000018878;Parent=transcript:ENSOART00000019146;protein_id=ENSOARP00000018878
+1	.	biological_region	105823	107012	557	.	.	external_name=oe %3D 0.75;logic_name=cpg
+1	.	biological_region	106077	106182	0.998	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	106498	106592	0.998	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	124404	124661	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	126287	127303	0.996	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	127730	128664	0.999	+	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	131386	157208	.	-	.	ID=gene:ENSOARG00000017608;Name=D2HGDH;biotype=protein_coding;description=D-2-hydroxyglutarate dehydrogenase [Source:HGNC Symbol%3BAcc:HGNC:28358];gene_id=ENSOARG00000017608;logic_name=ensembl;version=1
+1	ensembl	mRNA	131386	157208	.	-	.	ID=transcript:ENSOART00000019162;Parent=gene:ENSOARG00000017608;Name=D2HGDH-201;biotype=protein_coding;transcript_id=ENSOART00000019162;version=1
+1	ensembl	three_prime_UTR	131386	132045	.	-	.	Parent=transcript:ENSOART00000019162
+1	ensembl	exon	131386	132305	.	-	.	Parent=transcript:ENSOART00000019162;Name=ENSOARE00000174609;constitutive=1;ensembl_end_phase=-1;ensembl_phase=1;exon_id=ENSOARE00000174609;rank=9;version=1
+1	ensembl	CDS	132046	132305	.	-	2	ID=CDS:ENSOARP00000018894;Parent=transcript:ENSOART00000019162;protein_id=ENSOARP00000018894
+1	ensembl	exon	141100	141265	.	-	.	Parent=transcript:ENSOART00000019162;Name=ENSOARE00000174607;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000174607;rank=8;version=1
+1	ensembl	CDS	141100	141265	.	-	0	ID=CDS:ENSOARP00000018894;Parent=transcript:ENSOART00000019162;protein_id=ENSOARP00000018894
+1	ensembl	exon	143269	143411	.	-	.	Parent=transcript:ENSOART00000019162;Name=ENSOARE00000174606;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000174606;rank=7;version=1
+1	ensembl	CDS	143269	143411	.	-	2	ID=CDS:ENSOARP00000018894;Parent=transcript:ENSOART00000019162;protein_id=ENSOARP00000018894
+1	ensembl	exon	145613	145694	.	-	.	Parent=transcript:ENSOART00000019162;Name=ENSOARE00000174605;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000174605;rank=6;version=1
+1	ensembl	CDS	145613	145694	.	-	0	ID=CDS:ENSOARP00000018894;Parent=transcript:ENSOART00000019162;protein_id=ENSOARP00000018894
+1	ensembl	exon	147188	147418	.	-	.	Parent=transcript:ENSOART00000019162;Name=ENSOARE00000174603;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000174603;rank=5;version=1
+1	ensembl	CDS	147188	147418	.	-	0	ID=CDS:ENSOARP00000018894;Parent=transcript:ENSOART00000019162;protein_id=ENSOARP00000018894
+1	ensembl	exon	150299	150492	.	-	.	Parent=transcript:ENSOART00000019162;Name=ENSOARE00000174602;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000174602;rank=4;version=1
+1	ensembl	CDS	150299	150492	.	-	2	ID=CDS:ENSOARP00000018894;Parent=transcript:ENSOART00000019162;protein_id=ENSOARP00000018894
+1	ensembl	exon	151175	151314	.	-	.	Parent=transcript:ENSOART00000019162;Name=ENSOARE00000174599;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000174599;rank=3;version=1
+1	ensembl	CDS	151175	151314	.	-	1	ID=CDS:ENSOARP00000018894;Parent=transcript:ENSOART00000019162;protein_id=ENSOARP00000018894
+1	ensembl	exon	152583	152640	.	-	.	Parent=transcript:ENSOART00000019162;Name=ENSOARE00000174596;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000174596;rank=2;version=1
+1	ensembl	CDS	152583	152640	.	-	2	ID=CDS:ENSOARP00000018894;Parent=transcript:ENSOART00000019162;protein_id=ENSOARP00000018894
+1	ensembl	exon	156851	157208	.	-	.	Parent=transcript:ENSOART00000019162;Name=ENSOARE00000174595;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000174595;rank=1;version=1
+1	ensembl	CDS	156851	157208	.	-	0	ID=CDS:ENSOARP00000018894;Parent=transcript:ENSOART00000019162;protein_id=ENSOARP00000018894
+1	.	biological_region	132434	132860	0.939	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	133012	133566	148	.	.	external_name=oe %3D 0.81;logic_name=cpg
+1	.	biological_region	133481	133622	0.998	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	138675	139214	271	.	.	external_name=oe %3D 0.80;logic_name=cpg
+1	.	biological_region	140978	141427	271	.	.	external_name=oe %3D 0.93;logic_name=cpg
+1	.	biological_region	141250	142204	0.971	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	146769	147406	263	.	.	external_name=oe %3D 0.83;logic_name=cpg
+1	.	biological_region	151979	152477	0.998	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	152428	152941	189	.	.	external_name=oe %3D 0.61;logic_name=cpg
+1	.	biological_region	152778	153686	0.718	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	156851	157028	0.722	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	158070	158476	404	.	.	external_name=oe %3D 0.85;logic_name=cpg
+1	.	biological_region	158339	158342	0.999	-	.	logic_name=eponine
+1	.	biological_region	161442	161850	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	161565	164547	816	.	.	external_name=oe %3D 0.73;logic_name=cpg
+1	.	biological_region	162179	162860	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	162179	162985	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	165552	166601	301	.	.	external_name=oe %3D 0.74;logic_name=cpg
+1	.	biological_region	165766	166158	0.713	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	166444	166545	0.998	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	167802	167905	0.555	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	168128	168867	215	.	.	external_name=oe %3D 0.64;logic_name=cpg
+1	.	biological_region	168586	168830	0.862	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	170637	170889	0.993	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	171157	171959	368	.	.	external_name=oe %3D 0.71;logic_name=cpg
+1	.	biological_region	171922	171924	0.999	-	.	logic_name=eponine
+1	.	biological_region	171950	172408	0.799	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	176027	176203	0.985	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	185177	185248	40.3	-	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	185340	185559	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	185891	186615	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	186410	193575	.	+	.	ID=gene:ENSOARG00000017620;Name=DTYMK;biotype=protein_coding;description=deoxythymidylate kinase [Source:HGNC Symbol%3BAcc:HGNC:3061];gene_id=ENSOARG00000017620;logic_name=ensembl;version=1
+1	ensembl	mRNA	186410	193575	.	+	.	ID=transcript:ENSOART00000019171;Parent=gene:ENSOARG00000017620;Name=DTYMK-201;biotype=protein_coding;transcript_id=ENSOART00000019171;version=1
+1	ensembl	exon	186410	186533	.	+	.	Parent=transcript:ENSOART00000019171;Name=ENSOARE00000174691;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000174691;rank=1;version=1
+1	ensembl	CDS	186410	186533	.	+	0	ID=CDS:ENSOARP00000018903;Parent=transcript:ENSOART00000019171;protein_id=ENSOARP00000018903
+1	ensembl	exon	187538	187646	.	+	.	Parent=transcript:ENSOART00000019171;Name=ENSOARE00000174697;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000174697;rank=2;version=1
+1	ensembl	CDS	187538	187646	.	+	2	ID=CDS:ENSOARP00000018903;Parent=transcript:ENSOART00000019171;protein_id=ENSOARP00000018903
+1	ensembl	exon	189622	189712	.	+	.	Parent=transcript:ENSOART00000019171;Name=ENSOARE00000174703;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000174703;rank=3;version=1
+1	ensembl	CDS	189622	189712	.	+	1	ID=CDS:ENSOARP00000018903;Parent=transcript:ENSOART00000019171;protein_id=ENSOARP00000018903
+1	ensembl	exon	191094	191291	.	+	.	Parent=transcript:ENSOART00000019171;Name=ENSOARE00000174708;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000174708;rank=4;version=1
+1	ensembl	CDS	191094	191291	.	+	0	ID=CDS:ENSOARP00000018903;Parent=transcript:ENSOART00000019171;protein_id=ENSOARP00000018903
+1	ensembl	exon	193468	193575	.	+	.	Parent=transcript:ENSOART00000019171;Name=ENSOARE00000174712;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000174712;rank=5;version=1
+1	ensembl	CDS	193468	193575	.	+	0	ID=CDS:ENSOARP00000018903;Parent=transcript:ENSOART00000019171;protein_id=ENSOARP00000018903
+1	.	biological_region	186484	186485	0.999	+	.	logic_name=eponine
+1	.	biological_region	186682	186683	0.999	+	.	logic_name=eponine
+1	.	biological_region	186694	186701	0.999	-	.	logic_name=eponine
+1	.	biological_region	191220	191291	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	192430	193608	388	.	.	external_name=oe %3D 0.68;logic_name=cpg
+1	.	biological_region	192842	193150	0.998	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	193678	194192	0.993	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	195687	196122	105	.	.	external_name=oe %3D 0.77;logic_name=cpg
+1	.	biological_region	196907	196979	34.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	198804	230341	.	-	.	ID=gene:ENSOARG00000017628;Name=ATG4B;biotype=protein_coding;description=autophagy related 4B cysteine peptidase [Source:HGNC Symbol%3BAcc:HGNC:20790];gene_id=ENSOARG00000017628;logic_name=ensembl;version=1
+1	ensembl	mRNA	198804	230341	.	-	.	ID=transcript:ENSOART00000019185;Parent=gene:ENSOARG00000017628;Name=ATG4B-201;biotype=protein_coding;transcript_id=ENSOART00000019185;version=1
+1	ensembl	three_prime_UTR	198804	198993	.	-	.	Parent=transcript:ENSOART00000019185
+1	ensembl	exon	198804	199134	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174827;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSOARE00000174827;rank=14;version=1
+1	ensembl	CDS	198994	199134	.	-	0	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	199395	199451	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174823;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000174823;rank=13;version=1
+1	ensembl	CDS	199395	199451	.	-	0	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	200352	200447	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174822;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000174822;rank=12;version=1
+1	ensembl	CDS	200352	200447	.	-	0	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	200452	200498	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174818;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000174818;rank=11;version=1
+1	ensembl	CDS	200452	200498	.	-	2	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	200651	200729	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174812;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000174812;rank=10;version=1
+1	ensembl	CDS	200651	200729	.	-	0	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	201014	201207	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174805;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000174805;rank=9;version=1
+1	ensembl	CDS	201014	201207	.	-	2	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	203370	203449	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174801;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000174801;rank=8;version=1
+1	ensembl	CDS	203370	203449	.	-	1	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	203942	204014	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174799;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000174799;rank=7;version=1
+1	ensembl	CDS	203942	204014	.	-	2	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	204278	204333	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174797;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000174797;rank=6;version=1
+1	ensembl	CDS	204278	204333	.	-	1	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	204369	204414	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174795;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000174795;rank=5;version=1
+1	ensembl	CDS	204369	204414	.	-	2	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	204775	204873	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174793;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000174793;rank=4;version=1
+1	ensembl	CDS	204775	204873	.	-	2	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	206152	206223	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174790;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000174790;rank=3;version=1
+1	ensembl	CDS	206152	206223	.	-	2	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	206351	206452	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174789;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000174789;rank=2;version=1
+1	ensembl	CDS	206351	206452	.	-	2	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	ensembl	exon	230098	230341	.	-	.	Parent=transcript:ENSOART00000019185;Name=ENSOARE00000174788;constitutive=1;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSOARE00000174788;rank=1;version=1
+1	ensembl	CDS	230098	230341	.	-	0	ID=CDS:ENSOARP00000018917;Parent=transcript:ENSOART00000019185;protein_id=ENSOARP00000018917
+1	.	biological_region	200171	207679	1.4e+03	.	.	external_name=oe %3D 0.63;logic_name=cpg
+1	.	biological_region	200651	200870	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	201061	201812	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	201219	201327	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	203680	204333	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	207140	207274	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	207582	208238	0.969	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	210741	211047	0.963	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	211366	211537	0.843	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	214521	214523	0.999	-	.	logic_name=eponine
+1	.	biological_region	215300	216161	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	215759	249151	.	+	.	ID=gene:ENSOARG00000017642;Name=THAP4;biotype=protein_coding;description=THAP domain containing 4 [Source:HGNC Symbol%3BAcc:HGNC:23187];gene_id=ENSOARG00000017642;logic_name=ensembl;version=1
+1	ensembl	mRNA	215759	249151	.	+	.	ID=transcript:ENSOART00000019196;Parent=gene:ENSOARG00000017642;Name=THAP4-201;biotype=protein_coding;transcript_id=ENSOART00000019196;version=1
+1	ensembl	exon	215759	216244	.	+	.	Parent=transcript:ENSOART00000019196;Name=ENSOARE00000174953;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000174953;rank=1;version=1
+1	ensembl	CDS	215759	216244	.	+	0	ID=CDS:ENSOARP00000018928;Parent=transcript:ENSOART00000019196;protein_id=ENSOARP00000018928
+1	ensembl	exon	216246	216930	.	+	.	Parent=transcript:ENSOART00000019196;Name=ENSOARE00000174955;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000174955;rank=2;version=1
+1	ensembl	CDS	216246	216930	.	+	0	ID=CDS:ENSOARP00000018928;Parent=transcript:ENSOART00000019196;protein_id=ENSOARP00000018928
+1	ensembl	exon	235439	235580	.	+	.	Parent=transcript:ENSOART00000019196;Name=ENSOARE00000174957;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000174957;rank=3;version=1
+1	ensembl	CDS	235439	235580	.	+	2	ID=CDS:ENSOARP00000018928;Parent=transcript:ENSOART00000019196;protein_id=ENSOARP00000018928
+1	ensembl	exon	236449	236573	.	+	.	Parent=transcript:ENSOART00000019196;Name=ENSOARE00000174959;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000174959;rank=4;version=1
+1	ensembl	CDS	236449	236573	.	+	1	ID=CDS:ENSOARP00000018928;Parent=transcript:ENSOART00000019196;protein_id=ENSOARP00000018928
+1	ensembl	exon	236657	236760	.	+	.	Parent=transcript:ENSOART00000019196;Name=ENSOARE00000174962;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000174962;rank=5;version=1
+1	ensembl	CDS	236657	236760	.	+	2	ID=CDS:ENSOARP00000018928;Parent=transcript:ENSOART00000019196;protein_id=ENSOARP00000018928
+1	ensembl	exon	249032	249151	.	+	.	Parent=transcript:ENSOART00000019196;Name=ENSOARE00000174964;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000174964;rank=6;version=1
+1	ensembl	CDS	249032	249151	.	+	0	ID=CDS:ENSOARP00000018928;Parent=transcript:ENSOART00000019196;protein_id=ENSOARP00000018928
+1	.	biological_region	215903	217066	961	.	.	external_name=oe %3D 0.74;logic_name=cpg
+1	.	biological_region	216132	216197	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	216457	216848	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	216457	216930	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	220928	221426	222	.	.	external_name=oe %3D 0.60;logic_name=cpg
+1	.	biological_region	221018	221095	0.971	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	221413	221490	0.998	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	221865	221936	27	-	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	224056	224481	133	.	.	external_name=oe %3D 0.60;logic_name=cpg
+1	.	biological_region	224765	225573	236	.	.	external_name=oe %3D 0.64;logic_name=cpg
+1	.	biological_region	226559	226561	0.999	+	.	logic_name=eponine
+1	.	biological_region	228183	228746	445	.	.	external_name=oe %3D 0.77;logic_name=cpg
+1	.	biological_region	228580	228581	0.999	+	.	logic_name=eponine
+1	.	biological_region	228655	229643	0.999	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	228655	229680	0.999	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	230098	230323	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	230179	231517	408	.	.	external_name=oe %3D 0.66;logic_name=cpg
+1	.	biological_region	230479	230697	0.999	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	231442	231447	0.999	+	.	logic_name=eponine
+1	.	biological_region	233742	233813	0.615	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	234171	237370	275	.	.	external_name=oe %3D 0.60;logic_name=cpg
+1	.	biological_region	234253	234417	0.777	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	234932	235962	0.688	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	236337	236760	0.977	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	239877	240708	375	.	.	external_name=oe %3D 0.72;logic_name=cpg
+1	.	biological_region	240340	240643	0.959	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	246603	246686	0.741	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	248793	248941	0.774	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	250148	250264	0.837	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	250894	250965	34	+	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	257156	258136	0.703	-	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	258429	268599	.	-	.	ID=gene:ENSOARG00000017652;Name=BOK;biotype=protein_coding;description=BOK%2C BCL2 family apoptosis regulator [Source:HGNC Symbol%3BAcc:HGNC:1087];gene_id=ENSOARG00000017652;logic_name=ensembl;version=1
+1	ensembl	mRNA	258429	268599	.	-	.	ID=transcript:ENSOART00000019206;Parent=gene:ENSOARG00000017652;Name=BOK-201;biotype=protein_coding;transcript_id=ENSOART00000019206;version=1
+1	ensembl	exon	258429	258554	.	-	.	Parent=transcript:ENSOART00000019206;Name=ENSOARE00000175041;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175041;rank=5;version=1
+1	ensembl	CDS	258429	258554	.	-	0	ID=CDS:ENSOARP00000018938;Parent=transcript:ENSOART00000019206;protein_id=ENSOARP00000018938
+1	ensembl	exon	258867	258924	.	-	.	Parent=transcript:ENSOART00000019206;Name=ENSOARE00000175039;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000175039;rank=4;version=1
+1	ensembl	CDS	258867	258924	.	-	1	ID=CDS:ENSOARP00000018938;Parent=transcript:ENSOART00000019206;protein_id=ENSOARP00000018938
+1	ensembl	exon	259164	259242	.	-	.	Parent=transcript:ENSOART00000019206;Name=ENSOARE00000175037;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000175037;rank=3;version=1
+1	ensembl	CDS	259164	259242	.	-	2	ID=CDS:ENSOARP00000018938;Parent=transcript:ENSOART00000019206;protein_id=ENSOARP00000018938
+1	ensembl	exon	265661	265792	.	-	.	Parent=transcript:ENSOART00000019206;Name=ENSOARE00000175035;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000175035;rank=2;version=1
+1	ensembl	CDS	265661	265792	.	-	2	ID=CDS:ENSOARP00000018938;Parent=transcript:ENSOART00000019206;protein_id=ENSOARP00000018938
+1	ensembl	exon	268476	268599	.	-	.	Parent=transcript:ENSOART00000019206;Name=ENSOARE00000175033;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000175033;rank=1;version=1
+1	ensembl	CDS	268476	268599	.	-	0	ID=CDS:ENSOARP00000018938;Parent=transcript:ENSOART00000019206;protein_id=ENSOARP00000018938
+1	.	biological_region	258841	259013	0.959	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	261327	261835	0.646	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	261771	262522	185	.	.	external_name=oe %3D 0.68;logic_name=cpg
+1	.	biological_region	262338	262594	0.999	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	262661	262733	20.9	+	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	265661	265778	0.952	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	266083	266152	0.794	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	268455	268458	0.999	+	.	logic_name=eponine
+1	.	biological_region	268577	268580	0.999	-	.	logic_name=eponine
+1	.	biological_region	269675	269678	0.999	-	.	logic_name=eponine
+1	.	biological_region	275320	275391	20	+	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	277143	277256	0.86	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	280108	280545	0.83	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	281416	281992	0.514	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	285460	286098	118	.	.	external_name=oe %3D 0.78;logic_name=cpg
+1	.	biological_region	288720	288789	27.7	+	.	external_name=Pseudo;logic_name=trnascan
+1	ensembl	gene	293634	303314	.	+	.	ID=gene:ENSOARG00000017668;Name=STK25;biotype=protein_coding;description=serine/threonine kinase 25 [Source:HGNC Symbol%3BAcc:HGNC:11404];gene_id=ENSOARG00000017668;logic_name=ensembl;version=1
+1	ensembl	mRNA	293634	303314	.	+	.	ID=transcript:ENSOART00000019229;Parent=gene:ENSOARG00000017668;Name=STK25-201;biotype=protein_coding;transcript_id=ENSOART00000019229;version=1
+1	ensembl	exon	293634	293663	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175139;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175139;rank=1;version=1
+1	ensembl	CDS	293634	293663	.	+	0	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	297193	297279	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175142;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175142;rank=2;version=1
+1	ensembl	CDS	297193	297279	.	+	0	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	297382	297522	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175145;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175145;rank=3;version=1
+1	ensembl	CDS	297382	297522	.	+	0	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	298025	298081	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175150;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175150;rank=4;version=1
+1	ensembl	CDS	298025	298081	.	+	0	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	298666	298898	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175156;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000175156;rank=5;version=1
+1	ensembl	CDS	298666	298898	.	+	0	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	298956	299004	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175164;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000175164;rank=6;version=1
+1	ensembl	CDS	298956	299004	.	+	1	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	299688	299873	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175171;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175171;rank=7;version=1
+1	ensembl	CDS	299688	299873	.	+	0	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	300238	300383	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175177;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000175177;rank=8;version=1
+1	ensembl	CDS	300238	300383	.	+	0	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	300516	300630	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175186;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000175186;rank=9;version=1
+1	ensembl	CDS	300516	300630	.	+	1	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	300799	300870	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175193;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175193;rank=10;version=1
+1	ensembl	CDS	300799	300870	.	+	0	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	303010	303146	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175198;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000175198;rank=11;version=1
+1	ensembl	CDS	303010	303146	.	+	0	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	ensembl	exon	303275	303314	.	+	.	Parent=transcript:ENSOART00000019229;Name=ENSOARE00000175202;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000175202;rank=12;version=1
+1	ensembl	CDS	303275	303314	.	+	1	ID=CDS:ENSOARP00000018961;Parent=transcript:ENSOART00000019229;protein_id=ENSOARP00000018961
+1	.	biological_region	294489	295126	155	.	.	external_name=oe %3D 0.76;logic_name=cpg
+1	.	biological_region	296118	296540	0.972	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	297517	297604	0.997	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	300205	300945	178	.	.	external_name=oe %3D 0.67;logic_name=cpg
+1	.	biological_region	300309	300405	0.533	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	300690	300870	0.98	+	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	302388	359953	.	-	.	ID=gene:ENSOARG00000017737;Name=FARP2;biotype=protein_coding;description=FERM%2C ARH/RhoGEF and pleckstrin domain protein 2 [Source:HGNC Symbol%3BAcc:HGNC:16460];gene_id=ENSOARG00000017737;logic_name=ensembl;version=1
+1	ensembl	mRNA	302388	359953	.	-	.	ID=transcript:ENSOART00000019305;Parent=gene:ENSOARG00000017737;Name=FARP2-201;biotype=protein_coding;transcript_id=ENSOART00000019305;version=1
+1	ensembl	three_prime_UTR	302388	304322	.	-	.	Parent=transcript:ENSOART00000019305
+1	ensembl	exon	302388	304392	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175804;constitutive=1;ensembl_end_phase=-1;ensembl_phase=2;exon_id=ENSOARE00000175804;rank=28;version=1
+1	ensembl	CDS	304323	304392	.	-	1	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	304611	304762	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175802;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000175802;rank=27;version=1
+1	ensembl	CDS	304611	304762	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	304956	305063	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175799;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175799;rank=26;version=1
+1	ensembl	CDS	304956	305063	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	305651	305814	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175795;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000175795;rank=25;version=1
+1	ensembl	CDS	305651	305814	.	-	2	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	305978	306090	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175792;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000175792;rank=24;version=1
+1	ensembl	CDS	305978	306090	.	-	1	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	306654	306736	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175787;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000175787;rank=23;version=1
+1	ensembl	CDS	306654	306736	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	310037	310126	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175777;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175777;rank=22;version=1
+1	ensembl	CDS	310037	310126	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	310605	310673	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175772;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175772;rank=21;version=1
+1	ensembl	CDS	310605	310673	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	313688	313818	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175766;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000175766;rank=20;version=1
+1	ensembl	CDS	313688	313818	.	-	2	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	314623	314730	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175762;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000175762;rank=19;version=1
+1	ensembl	CDS	314623	314730	.	-	2	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	315193	315242	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175759;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000175759;rank=18;version=1
+1	ensembl	CDS	315193	315242	.	-	1	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	315413	315501	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175756;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000175756;rank=17;version=1
+1	ensembl	CDS	315413	315501	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	315546	315627	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175751;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000175751;rank=16;version=1
+1	ensembl	CDS	315546	315627	.	-	1	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	320437	320570	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175746;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000175746;rank=15;version=1
+1	ensembl	CDS	320437	320570	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	321126	321215	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175736;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175736;rank=14;version=1
+1	ensembl	CDS	321126	321215	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	323772	323960	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175732;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175732;rank=13;version=1
+1	ensembl	CDS	323772	323960	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	326103	326159	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175731;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175731;rank=12;version=1
+1	ensembl	CDS	326103	326159	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	331107	331289	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175729;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175729;rank=11;version=1
+1	ensembl	CDS	331107	331289	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	332990	333047	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175723;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000175723;rank=10;version=1
+1	ensembl	CDS	332990	333047	.	-	1	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	333648	333716	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175722;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000175722;rank=9;version=1
+1	ensembl	CDS	333648	333716	.	-	1	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	334044	334207	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175720;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000175720;rank=8;version=1
+1	ensembl	CDS	334044	334207	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	335842	335937	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175716;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175716;rank=7;version=1
+1	ensembl	CDS	335842	335937	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	343793	343940	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175712;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000175712;rank=6;version=1
+1	ensembl	CDS	343793	343940	.	-	1	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	351829	351943	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175709;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000175709;rank=5;version=1
+1	ensembl	CDS	351829	351943	.	-	2	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	354147	354244	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175707;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000175707;rank=4;version=1
+1	ensembl	CDS	354147	354244	.	-	1	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	356395	356473	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175705;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000175705;rank=3;version=1
+1	ensembl	CDS	356395	356473	.	-	2	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	357906	357948	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175700;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000175700;rank=2;version=1
+1	ensembl	CDS	357906	357948	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	ensembl	exon	359846	359953	.	-	.	Parent=transcript:ENSOART00000019305;Name=ENSOARE00000175698;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000175698;rank=1;version=1
+1	ensembl	CDS	359846	359953	.	-	0	ID=CDS:ENSOARP00000019037;Parent=transcript:ENSOART00000019305;protein_id=ENSOARP00000019037
+1	.	biological_region	302873	303633	284	.	.	external_name=oe %3D 0.60;logic_name=cpg
+1	.	biological_region	303074	303146	0.995	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	303189	303389	0.998	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	306654	306721	0.998	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	308675	309311	0.79	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	310605	311466	0.994	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	311574	311813	0.92	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	312189	312260	26.4	-	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	312965	313539	110	.	.	external_name=oe %3D 0.79;logic_name=cpg
+1	.	biological_region	314561	315104	0.991	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	314580	314580	0.999	+	.	logic_name=eponine
+1	.	biological_region	314623	315113	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	315102	315106	0.999	-	.	logic_name=eponine
+1	.	biological_region	323177	323391	0.978	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	323615	324031	214	.	.	external_name=oe %3D 0.80;logic_name=cpg
+1	.	biological_region	323737	324102	0.998	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	325181	325927	244	.	.	external_name=oe %3D 0.69;logic_name=cpg
+1	.	biological_region	325662	325662	0.999	+	.	logic_name=eponine
+1	.	biological_region	326986	327329	0.764	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	328420	328656	0.947	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	328423	331445	668	.	.	external_name=oe %3D 0.63;logic_name=cpg
+1	.	biological_region	330926	331121	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	331492	331746	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	332061	332066	0.999	+	.	logic_name=eponine
+1	.	biological_region	332107	332111	0.999	+	.	logic_name=eponine
+1	.	biological_region	332166	332168	0.999	-	.	logic_name=eponine
+1	.	biological_region	332338	332342	0.999	-	.	logic_name=eponine
+1	.	biological_region	333981	334198	0.976	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	335532	335631	0.819	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	336882	338185	371	.	.	external_name=oe %3D 0.74;logic_name=cpg
+1	.	biological_region	336957	337335	0.995	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	342810	343894	410	.	.	external_name=oe %3D 0.77;logic_name=cpg
+1	.	biological_region	343162	343596	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	351603	351827	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	352167	352580	0.99	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	353358	353773	215	.	.	external_name=oe %3D 0.81;logic_name=cpg
+1	.	biological_region	354147	354759	0.966	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	354293	355107	176	.	.	external_name=oe %3D 0.62;logic_name=cpg
+1	.	biological_region	356315	356381	0.503	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	374063	374476	1	-	.	external_name=rank %3D 3;logic_name=firstef
+1	.	biological_region	374228	375380	774	.	.	external_name=oe %3D 0.77;logic_name=cpg
+1	.	biological_region	374520	374612	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	374527	374612	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	374657	374729	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	374864	374866	0.999	-	.	logic_name=eponine
+1	.	biological_region	374966	375432	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	383532	383603	20.5	+	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	383650	383720	28	+	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	383834	384262	112	.	.	external_name=oe %3D 0.86;logic_name=cpg
+1	.	biological_region	388450	389628	424	.	.	external_name=oe %3D 0.68;logic_name=cpg
+1	.	biological_region	392311	392386	0.985	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	392700	393253	0.999	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	394620	394740	0.88	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	395524	395604	0.966	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	397659	398359	0.94	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	399867	399938	47.1	-	.	external_name=Gly;logic_name=trnascan
+1	.	biological_region	400556	400808	0.641	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	403020	403519	149	.	.	external_name=oe %3D 0.71;logic_name=cpg
+1	ensembl	gene	404161	424665	.	-	.	ID=gene:ENSOARG00000017810;biotype=protein_coding;gene_id=ENSOARG00000017810;logic_name=ensembl;version=1
+1	ensembl	mRNA	404161	424665	.	-	.	ID=transcript:ENSOART00000019381;Parent=gene:ENSOARG00000017810;biotype=protein_coding;transcript_id=ENSOART00000019381;version=1
+1	ensembl	exon	404161	407034	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176501;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSOARE00000176501;rank=12;version=1
+1	ensembl	three_prime_UTR	404161	407034	.	-	.	Parent=transcript:ENSOART00000019381
+1	ensembl	three_prime_UTR	409443	409443	.	-	.	Parent=transcript:ENSOART00000019381
+1	ensembl	exon	409443	409545	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176498;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSOARE00000176498;rank=11;version=1
+1	ensembl	CDS	409444	409545	.	-	0	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	ensembl	exon	410438	410495	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176492;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000176492;rank=10;version=1
+1	ensembl	CDS	410438	410495	.	-	1	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	ensembl	exon	411296	411379	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176489;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000176489;rank=9;version=1
+1	ensembl	CDS	411296	411379	.	-	1	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	ensembl	exon	411843	411988	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176482;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000176482;rank=8;version=1
+1	ensembl	CDS	411843	411988	.	-	0	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	ensembl	exon	412607	412809	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176477;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000176477;rank=7;version=1
+1	ensembl	CDS	412607	412809	.	-	2	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	ensembl	exon	413246	413253	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176473;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000176473;rank=6;version=1
+1	ensembl	CDS	413246	413253	.	-	1	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	ensembl	exon	415055	415189	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176464;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000176464;rank=5;version=1
+1	ensembl	CDS	415055	415189	.	-	1	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	ensembl	exon	416042	416165	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176456;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000176456;rank=4;version=1
+1	ensembl	CDS	416042	416165	.	-	2	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	ensembl	exon	416837	416923	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176454;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000176454;rank=3;version=1
+1	ensembl	CDS	416837	416923	.	-	2	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	ensembl	exon	424513	424633	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176452;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000176452;rank=2;version=1
+1	ensembl	CDS	424513	424633	.	-	0	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	ensembl	exon	424657	424665	.	-	.	Parent=transcript:ENSOART00000019381;Name=ENSOARE00000176449;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000176449;rank=1;version=1
+1	ensembl	CDS	424657	424665	.	-	0	ID=CDS:ENSOARP00000019113;Parent=transcript:ENSOART00000019381;protein_id=ENSOARP00000019113
+1	.	biological_region	404171	404893	448	.	.	external_name=oe %3D 0.82;logic_name=cpg
+1	.	biological_region	404633	404829	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	405699	406342	95	.	.	external_name=oe %3D 0.63;logic_name=cpg
+1	.	biological_region	409371	410210	511	.	.	external_name=oe %3D 0.84;logic_name=cpg
+1	.	biological_region	409443	409808	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	410216	410277	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	412132	413000	0.868	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	413019	413837	0.999	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	414164	414588	134	.	.	external_name=oe %3D 0.78;logic_name=cpg
+1	.	biological_region	415055	415457	0.968	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	415094	415096	0.999	-	.	logic_name=eponine
+1	.	biological_region	417343	417414	23.2	-	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	418809	419263	212	.	.	external_name=oe %3D 0.67;logic_name=cpg
+1	.	biological_region	420762	421583	151	.	.	external_name=oe %3D 0.67;logic_name=cpg
+1	.	biological_region	427267	427490	0.683	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	431925	432515	364	.	.	external_name=oe %3D 0.98;logic_name=cpg
+1	.	biological_region	432394	433424	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	433874	434352	386	.	.	external_name=oe %3D 0.98;logic_name=cpg
+1	.	biological_region	433891	433975	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	433977	433979	0.999	-	.	logic_name=eponine
+1	.	biological_region	434301	434603	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	440325	441353	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	441377	442056	131	.	.	external_name=oe %3D 0.68;logic_name=cpg
+1	.	biological_region	441649	441824	0.964	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	445229	445398	0.501	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	448929	448933	0.999	-	.	logic_name=eponine
+1	.	biological_region	452328	452621	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	452370	453413	775	.	.	external_name=oe %3D 0.77;logic_name=cpg
+1	.	biological_region	453003	453132	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	462811	462816	0.999	+	.	logic_name=eponine
+1	.	biological_region	463182	463319	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	465590	466095	0.843	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	466098	466217	0.99	+	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	467179	492043	.	+	.	ID=gene:ENSOARG00000017870;Name=HDLBP;biotype=protein_coding;description=high density lipoprotein binding protein [Source:HGNC Symbol%3BAcc:HGNC:4857];gene_id=ENSOARG00000017870;logic_name=ensembl;version=1
+1	ensembl	mRNA	467179	492043	.	+	.	ID=transcript:ENSOART00000019445;Parent=gene:ENSOARG00000017870;Name=HDLBP-201;biotype=protein_coding;transcript_id=ENSOART00000019445;version=1
+1	ensembl	exon	467179	467254	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177052;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000177052;rank=1;version=1
+1	ensembl	CDS	467179	467254	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	468547	468707	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177055;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000177055;rank=2;version=1
+1	ensembl	CDS	468547	468707	.	+	2	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	469423	469638	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177059;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177059;rank=3;version=1
+1	ensembl	CDS	469423	469638	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	474232	474438	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177066;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177066;rank=4;version=1
+1	ensembl	CDS	474232	474438	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	474824	475039	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177068;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177068;rank=5;version=1
+1	ensembl	CDS	474824	475039	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	475460	475666	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177071;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177071;rank=6;version=1
+1	ensembl	CDS	475460	475666	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	475790	475897	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177072;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177072;rank=7;version=1
+1	ensembl	CDS	475790	475897	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	476603	476707	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177076;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177076;rank=8;version=1
+1	ensembl	CDS	476603	476707	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	476983	477061	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177080;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000177080;rank=9;version=1
+1	ensembl	CDS	476983	477061	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	478300	478439	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177082;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000177082;rank=10;version=1
+1	ensembl	CDS	478300	478439	.	+	2	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	479071	479175	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177086;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177086;rank=11;version=1
+1	ensembl	CDS	479071	479175	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	479297	479410	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177090;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177090;rank=12;version=1
+1	ensembl	CDS	479297	479410	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	480161	480247	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177091;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177091;rank=13;version=1
+1	ensembl	CDS	480161	480247	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	480372	480503	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177096;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177096;rank=14;version=1
+1	ensembl	CDS	480372	480503	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	482776	482994	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177098;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177098;rank=15;version=1
+1	ensembl	CDS	482776	482994	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	485871	486110	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177101;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177101;rank=16;version=1
+1	ensembl	CDS	485871	486110	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	486198	486416	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177102;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177102;rank=17;version=1
+1	ensembl	CDS	486198	486416	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	486663	486801	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177104;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000177104;rank=18;version=1
+1	ensembl	CDS	486663	486801	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	488066	488220	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177107;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000177107;rank=19;version=1
+1	ensembl	CDS	488066	488220	.	+	2	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	488920	489024	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177108;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177108;rank=20;version=1
+1	ensembl	CDS	488920	489024	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	489176	489300	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177112;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000177112;rank=21;version=1
+1	ensembl	CDS	489176	489300	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	490033	490180	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177114;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000177114;rank=22;version=1
+1	ensembl	CDS	490033	490180	.	+	1	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	490750	490935	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177116;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177116;rank=23;version=1
+1	ensembl	CDS	490750	490935	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	491229	491345	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177119;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177119;rank=24;version=1
+1	ensembl	CDS	491229	491345	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	491739	491867	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177123;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177123;rank=25;version=1
+1	ensembl	CDS	491739	491867	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	ensembl	exon	491957	492043	.	+	.	Parent=transcript:ENSOART00000019445;Name=ENSOARE00000177125;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177125;rank=26;version=1
+1	ensembl	CDS	491957	492043	.	+	0	ID=CDS:ENSOARP00000019177;Parent=transcript:ENSOART00000019445;protein_id=ENSOARP00000019177
+1	.	biological_region	468818	468890	36.3	-	.	external_name=SeC;logic_name=trnascan
+1	.	biological_region	472160	472295	0.675	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	474118	475645	345	.	.	external_name=oe %3D 0.67;logic_name=cpg
+1	.	biological_region	474516	474989	0.935	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	475752	476707	0.95	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	476498	476741	0.633	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	476566	477321	235	.	.	external_name=oe %3D 0.68;logic_name=cpg
+1	.	biological_region	478565	478762	0.951	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	480274	480940	0.968	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	481093	481295	0.962	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	482476	483979	423	.	.	external_name=oe %3D 0.62;logic_name=cpg
+1	.	biological_region	482910	482994	0.999	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	483796	483798	0.999	-	.	logic_name=eponine
+1	ensembl	lincRNA_gene	485106	684294	.	-	.	ID=gene:ENSOARG00000025486;biotype=lincRNA;gene_id=ENSOARG00000025486;logic_name=ensembl_lincrna;version=1
+1	ensembl	lincRNA	485106	684294	.	-	.	ID=transcript:ENSOART00000027410;Parent=gene:ENSOARG00000025486;biotype=lincRNA;transcript_id=ENSOART00000027410;version=1
+1	ensembl	exon	485106	486413	.	-	.	Parent=transcript:ENSOART00000027410;Name=ENSOARE00000215027;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSOARE00000215027;rank=2;version=1
+1	ensembl	exon	683968	684294	.	-	.	Parent=transcript:ENSOART00000027410;Name=ENSOARE00000215026;constitutive=1;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSOARE00000215026;rank=1;version=1
+1	.	biological_region	485329	485897	0.989	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	485898	486372	372	.	.	external_name=oe %3D 0.81;logic_name=cpg
+1	.	biological_region	486238	486801	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	487203	487650	201	.	.	external_name=oe %3D 0.69;logic_name=cpg
+1	.	biological_region	489362	489537	0.645	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	489767	492231	686	.	.	external_name=oe %3D 0.67;logic_name=cpg
+1	.	biological_region	491003	491880	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	492148	492885	0.999	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	496394	497424	1	-	.	external_name=rank %3D 6;logic_name=firstef
+1	.	biological_region	496582	497542	1	-	.	external_name=rank %3D 5;logic_name=firstef
+1	ensembl	gene	496775	513650	.	-	.	ID=gene:ENSOARG00000017936;biotype=protein_coding;gene_id=ENSOARG00000017936;logic_name=ensembl;version=1
+1	ensembl	mRNA	496775	513650	.	-	.	ID=transcript:ENSOART00000019522;Parent=gene:ENSOARG00000017936;biotype=protein_coding;transcript_id=ENSOART00000019522;version=1
+1	ensembl	exon	496775	496853	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177793;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000177793;rank=27;version=1
+1	ensembl	CDS	496775	496853	.	-	1	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	496957	497005	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177790;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000177790;rank=26;version=1
+1	ensembl	CDS	496957	497005	.	-	2	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	497382	497469	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177788;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000177788;rank=25;version=1
+1	ensembl	CDS	497382	497469	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	497472	497526	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177787;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000177787;rank=24;version=1
+1	ensembl	CDS	497472	497526	.	-	1	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	497807	497983	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177786;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000177786;rank=23;version=1
+1	ensembl	CDS	497807	497983	.	-	1	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	498039	498088	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177785;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000177785;rank=22;version=1
+1	ensembl	CDS	498039	498088	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	498091	498194	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177784;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000177784;rank=21;version=1
+1	ensembl	CDS	498091	498194	.	-	2	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	499491	499635	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177783;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000177783;rank=20;version=1
+1	ensembl	CDS	499491	499635	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	500579	500689	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177782;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177782;rank=19;version=1
+1	ensembl	CDS	500579	500689	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	502664	502718	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177781;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000177781;rank=18;version=1
+1	ensembl	CDS	502664	502718	.	-	1	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	503220	503242	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177780;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000177780;rank=17;version=1
+1	ensembl	CDS	503220	503242	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	503247	503323	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177778;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000177778;rank=16;version=1
+1	ensembl	CDS	503247	503323	.	-	2	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	503906	504008	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177777;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000177777;rank=15;version=1
+1	ensembl	CDS	503906	504008	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	504091	504188	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177776;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000177776;rank=14;version=1
+1	ensembl	CDS	504091	504188	.	-	2	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	504884	504890	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177775;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000177775;rank=13;version=1
+1	ensembl	CDS	504884	504890	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	505741	505862	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177774;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000177774;rank=12;version=1
+1	ensembl	CDS	505741	505862	.	-	2	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	505944	506079	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177773;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000177773;rank=11;version=1
+1	ensembl	CDS	505944	506079	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	507347	507440	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177772;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000177772;rank=10;version=1
+1	ensembl	CDS	507347	507440	.	-	1	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	507859	507911	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177768;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000177768;rank=9;version=1
+1	ensembl	CDS	507859	507911	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	508795	508832	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177765;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000177765;rank=8;version=1
+1	ensembl	CDS	508795	508832	.	-	2	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	509193	509286	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177764;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000177764;rank=7;version=1
+1	ensembl	CDS	509193	509286	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	509289	509333	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177762;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177762;rank=6;version=1
+1	ensembl	CDS	509289	509333	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	511170	511238	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177760;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177760;rank=5;version=1
+1	ensembl	CDS	511170	511238	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	511872	511910	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177759;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000177759;rank=4;version=1
+1	ensembl	CDS	511872	511910	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	512108	512171	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177758;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000177758;rank=3;version=1
+1	ensembl	CDS	512108	512171	.	-	1	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	512933	513058	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177757;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000177757;rank=2;version=1
+1	ensembl	CDS	512933	513058	.	-	1	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	ensembl	exon	513589	513650	.	-	.	Parent=transcript:ENSOART00000019522;Name=ENSOARE00000177752;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000177752;rank=1;version=1
+1	ensembl	CDS	513589	513650	.	-	0	ID=CDS:ENSOARP00000019254;Parent=transcript:ENSOART00000019522;protein_id=ENSOARP00000019254
+1	.	biological_region	496892	497677	1	-	.	external_name=rank %3D 7;logic_name=firstef
+1	.	biological_region	496953	497677	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	497279	498347	984	.	.	external_name=oe %3D 0.77;logic_name=cpg
+1	.	biological_region	497382	497677	1	-	.	external_name=rank %3D 3;logic_name=firstef
+1	.	biological_region	497807	497885	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	497827	497888	1	-	.	external_name=rank %3D 4;logic_name=firstef
+1	.	biological_region	497827	497901	1	+	.	external_name=rank %3D 3;logic_name=firstef
+1	.	biological_region	497866	497964	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	497908	498020	1	+	.	external_name=rank %3D 4;logic_name=firstef
+1	.	biological_region	497948	497951	0.999	+	.	logic_name=eponine
+1	.	biological_region	498030	498105	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	502090	502348	0.961	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	503782	504892	654	.	.	external_name=oe %3D 0.81;logic_name=cpg
+1	.	biological_region	503906	504352	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	504091	504345	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	504796	505352	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	505718	506213	225	.	.	external_name=oe %3D 0.70;logic_name=cpg
+1	.	biological_region	512658	515327	463	.	.	external_name=oe %3D 0.60;logic_name=cpg
+1	.	biological_region	512825	513275	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	513639	513894	0.992	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	515500	515757	0.581	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	519447	519743	0.997	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	519688	520212	178	.	.	external_name=oe %3D 0.64;logic_name=cpg
+1	.	biological_region	521383	522188	0.999	+	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	lincRNA_gene	522174	679187	.	-	.	ID=gene:ENSOARG00000025487;biotype=lincRNA;gene_id=ENSOARG00000025487;logic_name=ensembl_lincrna;version=1
+1	ensembl	lincRNA	522174	679187	.	-	.	ID=transcript:ENSOART00000027411;Parent=gene:ENSOARG00000025487;biotype=lincRNA;transcript_id=ENSOART00000027411;version=1
+1	ensembl	exon	522174	523676	.	-	.	Parent=transcript:ENSOART00000027411;Name=ENSOARE00000215029;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSOARE00000215029;rank=2;version=1
+1	ensembl	exon	679051	679187	.	-	.	Parent=transcript:ENSOART00000027411;Name=ENSOARE00000215028;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSOARE00000215028;rank=1;version=1
+1	.	biological_region	523538	524147	0.993	-	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	526408	543487	.	-	.	ID=gene:ENSOARG00000017998;Name=PPP1R7;biotype=protein_coding;description=protein phosphatase 1 regulatory subunit 7 [Source:HGNC Symbol%3BAcc:HGNC:9295];gene_id=ENSOARG00000017998;logic_name=ensembl;version=1
+1	ensembl	mRNA	526408	543487	.	-	.	ID=transcript:ENSOART00000019592;Parent=gene:ENSOARG00000017998;Name=PPP1R7-201;biotype=protein_coding;transcript_id=ENSOART00000019592;version=1
+1	ensembl	three_prime_UTR	526408	528164	.	-	.	Parent=transcript:ENSOART00000019592
+1	ensembl	exon	526408	528341	.	-	.	Parent=transcript:ENSOART00000019592;Name=ENSOARE00000178480;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSOARE00000178480;rank=10;version=1
+1	ensembl	CDS	528165	528341	.	-	0	ID=CDS:ENSOARP00000019322;Parent=transcript:ENSOART00000019592;protein_id=ENSOARP00000019322
+1	ensembl	exon	533079	533165	.	-	.	Parent=transcript:ENSOART00000019592;Name=ENSOARE00000178478;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178478;rank=9;version=1
+1	ensembl	CDS	533079	533165	.	-	0	ID=CDS:ENSOARP00000019322;Parent=transcript:ENSOART00000019592;protein_id=ENSOARP00000019322
+1	ensembl	exon	535552	535656	.	-	.	Parent=transcript:ENSOART00000019592;Name=ENSOARE00000178476;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178476;rank=8;version=1
+1	ensembl	CDS	535552	535656	.	-	0	ID=CDS:ENSOARP00000019322;Parent=transcript:ENSOART00000019592;protein_id=ENSOARP00000019322
+1	ensembl	exon	536482	536598	.	-	.	Parent=transcript:ENSOART00000019592;Name=ENSOARE00000178473;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178473;rank=7;version=1
+1	ensembl	CDS	536482	536598	.	-	0	ID=CDS:ENSOARP00000019322;Parent=transcript:ENSOART00000019592;protein_id=ENSOARP00000019322
+1	ensembl	exon	537676	537838	.	-	.	Parent=transcript:ENSOART00000019592;Name=ENSOARE00000178470;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000178470;rank=6;version=1
+1	ensembl	CDS	537676	537838	.	-	1	ID=CDS:ENSOARP00000019322;Parent=transcript:ENSOART00000019592;protein_id=ENSOARP00000019322
+1	ensembl	exon	538210	538340	.	-	.	Parent=transcript:ENSOART00000019592;Name=ENSOARE00000178467;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000178467;rank=5;version=1
+1	ensembl	CDS	538210	538340	.	-	0	ID=CDS:ENSOARP00000019322;Parent=transcript:ENSOART00000019592;protein_id=ENSOARP00000019322
+1	ensembl	exon	538904	538969	.	-	.	Parent=transcript:ENSOART00000019592;Name=ENSOARE00000178462;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178462;rank=4;version=1
+1	ensembl	CDS	538904	538969	.	-	0	ID=CDS:ENSOARP00000019322;Parent=transcript:ENSOART00000019592;protein_id=ENSOARP00000019322
+1	ensembl	exon	539495	539550	.	-	.	Parent=transcript:ENSOART00000019592;Name=ENSOARE00000178460;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000178460;rank=3;version=1
+1	ensembl	CDS	539495	539550	.	-	2	ID=CDS:ENSOARP00000019322;Parent=transcript:ENSOART00000019592;protein_id=ENSOARP00000019322
+1	ensembl	CDS	542631	542757	.	-	0	ID=CDS:ENSOARP00000019322;Parent=transcript:ENSOART00000019592;protein_id=ENSOARP00000019322
+1	ensembl	exon	542631	542759	.	-	.	Parent=transcript:ENSOART00000019592;Name=ENSOARE00000178458;constitutive=1;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSOARE00000178458;rank=2;version=1
+1	ensembl	five_prime_UTR	542758	542759	.	-	.	Parent=transcript:ENSOART00000019592
+1	ensembl	exon	543162	543487	.	-	.	Parent=transcript:ENSOART00000019592;Name=ENSOARE00000178457;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSOARE00000178457;rank=1;version=1
+1	ensembl	five_prime_UTR	543162	543487	.	-	.	Parent=transcript:ENSOART00000019592
+1	.	biological_region	527920	528251	0.967	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	527998	528714	346	.	.	external_name=oe %3D 0.76;logic_name=cpg
+1	.	biological_region	528158	528159	0.999	+	.	logic_name=eponine
+1	.	biological_region	530623	531572	0.781	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	531541	532169	0.86	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	532124	533155	301	.	.	external_name=oe %3D 0.69;logic_name=cpg
+1	.	biological_region	533628	534257	0.89	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	534546	535270	0.801	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	537427	539316	289	.	.	external_name=oe %3D 0.61;logic_name=cpg
+1	.	biological_region	540207	540458	0.929	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	541259	541426	0.504	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	541819	542685	0.753	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	545100	545467	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	546581	547160	825	.	.	external_name=oe %3D 1.05;logic_name=cpg
+1	.	biological_region	546727	546728	0.999	+	.	logic_name=eponine
+1	.	biological_region	546810	546812	0.999	+	.	logic_name=eponine
+1	.	biological_region	546924	546927	0.999	-	.	logic_name=eponine
+1	.	biological_region	547016	547888	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	547023	547127	1	+	.	external_name=rank %3D 3;logic_name=firstef
+1	.	biological_region	547023	547144	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	547023	547956	1	+	.	external_name=rank %3D 4;logic_name=firstef
+1	.	biological_region	547024	547029	0.999	+	.	logic_name=eponine
+1	ensembl	gene	552924	582608	.	+	.	ID=gene:ENSOARG00000018016;Name=PASK;biotype=protein_coding;description=PAS domain containing serine/threonine kinase [Source:HGNC Symbol%3BAcc:HGNC:17270];gene_id=ENSOARG00000018016;logic_name=ensembl;version=1
+1	ensembl	mRNA	552924	582608	.	+	.	ID=transcript:ENSOART00000019612;Parent=gene:ENSOARG00000018016;Name=PASK-201;biotype=protein_coding;transcript_id=ENSOART00000019612;version=1
+1	ensembl	exon	552924	553119	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178639;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000178639;rank=1;version=1
+1	ensembl	CDS	552924	553119	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	553589	553821	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178641;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000178641;rank=2;version=1
+1	ensembl	CDS	553589	553821	.	+	2	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	554397	554567	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178642;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178642;rank=3;version=1
+1	ensembl	CDS	554397	554567	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	555235	555375	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178643;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178643;rank=4;version=1
+1	ensembl	CDS	555235	555375	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	556049	556183	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178644;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178644;rank=5;version=1
+1	ensembl	CDS	556049	556183	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	558127	558387	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178645;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178645;rank=6;version=1
+1	ensembl	CDS	558127	558387	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	559353	559476	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178646;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000178646;rank=7;version=1
+1	ensembl	CDS	559353	559476	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	560555	560594	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178647;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000178647;rank=8;version=1
+1	ensembl	CDS	560555	560594	.	+	2	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	560868	560934	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178648;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000178648;rank=9;version=1
+1	ensembl	CDS	560868	560934	.	+	1	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	561127	561227	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178650;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000178650;rank=10;version=1
+1	ensembl	CDS	561127	561227	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	562202	562312	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178653;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000178653;rank=11;version=1
+1	ensembl	CDS	562202	562312	.	+	1	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	562604	562641	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178655;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000178655;rank=12;version=1
+1	ensembl	CDS	562604	562641	.	+	1	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	562907	562921	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178656;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000178656;rank=13;version=1
+1	ensembl	CDS	562907	562921	.	+	2	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	564321	564961	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178658;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000178658;rank=14;version=1
+1	ensembl	CDS	564321	564961	.	+	2	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	564963	565516	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178659;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000178659;rank=15;version=1
+1	ensembl	CDS	564963	565516	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	566286	566299	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178660;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000178660;rank=16;version=1
+1	ensembl	CDS	566286	566299	.	+	1	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	566668	566691	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178662;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000178662;rank=17;version=1
+1	ensembl	CDS	566668	566691	.	+	2	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	567014	567171	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178669;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000178669;rank=18;version=1
+1	ensembl	CDS	567014	567171	.	+	2	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	567539	567706	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178670;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178670;rank=19;version=1
+1	ensembl	CDS	567539	567706	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	569593	569718	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178672;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178672;rank=20;version=1
+1	ensembl	CDS	569593	569718	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	569807	569941	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178674;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000178674;rank=21;version=1
+1	ensembl	CDS	569807	569941	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	573014	573213	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178675;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000178675;rank=22;version=1
+1	ensembl	CDS	573014	573213	.	+	0	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	580242	580375	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178676;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000178676;rank=23;version=1
+1	ensembl	CDS	580242	580375	.	+	1	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	581943	582089	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178677;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000178677;rank=24;version=1
+1	ensembl	CDS	581943	582089	.	+	2	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	ensembl	exon	582502	582608	.	+	.	Parent=transcript:ENSOART00000019612;Name=ENSOARE00000178679;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000178679;rank=25;version=1
+1	ensembl	CDS	582502	582608	.	+	2	ID=CDS:ENSOARP00000019342;Parent=transcript:ENSOART00000019612;protein_id=ENSOARP00000019342
+1	.	biological_region	552932	556647	893	.	.	external_name=oe %3D 0.63;logic_name=cpg
+1	.	biological_region	553800	554264	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	556054	556383	0.973	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	556895	556973	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	561957	562298	0.951	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	563029	565517	1.13e+03	.	.	external_name=oe %3D 0.61;logic_name=cpg
+1	.	biological_region	563364	563714	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	563829	564106	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	564142	565172	1	+	.	external_name=rank %3D 3;logic_name=firstef
+1	.	biological_region	564165	565195	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	567103	567241	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	567144	567697	239	.	.	external_name=oe %3D 0.60;logic_name=cpg
+1	.	biological_region	567688	568139	0.998	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	570835	571136	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	570972	571771	623	.	.	external_name=oe %3D 0.87;logic_name=cpg
+1	.	biological_region	571001	571136	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	571159	571163	0.999	+	.	logic_name=eponine
+1	.	biological_region	571325	571386	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	571348	571422	1	+	.	external_name=rank %3D 3;logic_name=firstef
+1	.	biological_region	571348	571452	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	571352	571354	0.999	-	.	logic_name=eponine
+1	.	biological_region	571386	571391	0.999	-	.	logic_name=eponine
+1	.	biological_region	573137	573228	0.93	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	573513	574037	142	.	.	external_name=oe %3D 0.66;logic_name=cpg
+1	.	biological_region	573542	574170	0.922	+	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	580242	594543	.	+	.	ID=gene:ENSOARG00000018079;Name=MTERF4;biotype=protein_coding;description=mitochondrial transcription termination factor 4 [Source:HGNC Symbol%3BAcc:HGNC:28785];gene_id=ENSOARG00000018079;logic_name=ensembl;version=1
+1	ensembl	mRNA	580242	594543	.	+	.	ID=transcript:ENSOART00000019676;Parent=gene:ENSOARG00000018079;Name=MTERF4-201;biotype=protein_coding;transcript_id=ENSOART00000019676;version=1
+1	ensembl	exon	580242	580375	.	+	.	Parent=transcript:ENSOART00000019676;Name=ENSOARE00000179169;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=ENSOARE00000179169;rank=1;version=1
+1	ensembl	five_prime_UTR	580242	580375	.	+	.	Parent=transcript:ENSOART00000019676
+1	ensembl	five_prime_UTR	590654	590761	.	+	.	Parent=transcript:ENSOART00000019676
+1	ensembl	exon	590654	591137	.	+	.	Parent=transcript:ENSOART00000019676;Name=ENSOARE00000179170;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=ENSOARE00000179170;rank=2;version=1
+1	ensembl	CDS	590762	591137	.	+	0	ID=CDS:ENSOARP00000019406;Parent=transcript:ENSOART00000019676;protein_id=ENSOARP00000019406
+1	ensembl	exon	593346	593530	.	+	.	Parent=transcript:ENSOART00000019676;Name=ENSOARE00000179171;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000179171;rank=3;version=1
+1	ensembl	CDS	593346	593530	.	+	2	ID=CDS:ENSOARP00000019406;Parent=transcript:ENSOART00000019676;protein_id=ENSOARP00000019406
+1	ensembl	exon	594196	594543	.	+	.	Parent=transcript:ENSOART00000019676;Name=ENSOARE00000179174;constitutive=0;ensembl_end_phase=-1;ensembl_phase=0;exon_id=ENSOARE00000179174;rank=4;version=1
+1	ensembl	CDS	594196	594543	.	+	0	ID=CDS:ENSOARP00000019406;Parent=transcript:ENSOART00000019676;protein_id=ENSOARP00000019406
+1	ensembl	mRNA	589440	594543	.	+	.	ID=transcript:ENSOART00000019678;Parent=gene:ENSOARG00000018079;Name=MTERF4-202;biotype=protein_coding;transcript_id=ENSOART00000019678;version=1
+1	ensembl	exon	589440	589460	.	+	.	Parent=transcript:ENSOART00000019678;Name=ENSOARE00000179178;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000179178;rank=1;version=1
+1	ensembl	CDS	589440	589460	.	+	0	ID=CDS:ENSOARP00000019408;Parent=transcript:ENSOART00000019678;protein_id=ENSOARP00000019408
+1	ensembl	exon	590654	591137	.	+	.	Parent=transcript:ENSOART00000019678;Name=ENSOARE00000179186;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000179186;rank=2;version=1
+1	ensembl	CDS	590654	591137	.	+	0	ID=CDS:ENSOARP00000019408;Parent=transcript:ENSOART00000019678;protein_id=ENSOARP00000019408
+1	ensembl	exon	593346	593530	.	+	.	Parent=transcript:ENSOART00000019678;Name=ENSOARE00000179171;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000179171;rank=3;version=1
+1	ensembl	CDS	593346	593530	.	+	2	ID=CDS:ENSOARP00000019408;Parent=transcript:ENSOART00000019678;protein_id=ENSOARP00000019408
+1	ensembl	exon	594196	594543	.	+	.	Parent=transcript:ENSOART00000019678;Name=ENSOARE00000179196;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000179196;rank=4;version=1
+1	ensembl	CDS	594196	594543	.	+	0	ID=CDS:ENSOARP00000019408;Parent=transcript:ENSOART00000019678;protein_id=ENSOARP00000019408
+1	.	biological_region	582486	583352	0.987	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	583301	587150	363	.	.	external_name=oe %3D 0.92;logic_name=cpg
+1	.	biological_region	583765	584078	0.606	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	586408	586687	0.969	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	587174	587281	0.995	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	588661	589108	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	588855	589803	618	.	.	external_name=oe %3D 0.85;logic_name=cpg
+1	.	biological_region	589364	589365	0.999	-	.	logic_name=eponine
+1	.	biological_region	589379	589382	0.999	-	.	logic_name=eponine
+1	.	biological_region	589383	589388	0.999	+	.	logic_name=eponine
+1	.	biological_region	589404	589406	0.999	-	.	logic_name=eponine
+1	.	biological_region	589435	589443	0.999	-	.	logic_name=eponine
+1	.	biological_region	589463	589465	0.999	-	.	logic_name=eponine
+1	.	biological_region	589480	590358	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	594313	594398	0.88	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	594330	594480	0.628	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	596866	597528	0.564	+	.	external_name=rank %3D 1;logic_name=firstef
+1	ensembl	gene	600256	649127	.	-	.	ID=gene:ENSOARG00000018144;Name=SNED1;biotype=protein_coding;description=sushi%2C nidogen and EGF like domains 1 [Source:HGNC Symbol%3BAcc:HGNC:24696];gene_id=ENSOARG00000018144;logic_name=ensembl;version=1
+1	ensembl	mRNA	600256	649127	.	-	.	ID=transcript:ENSOART00000019749;Parent=gene:ENSOARG00000018144;Name=SNED1-201;biotype=protein_coding;transcript_id=ENSOART00000019749;version=1
+1	ensembl	exon	600256	600292	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179846;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000179846;rank=31;version=1
+1	ensembl	CDS	600256	600292	.	-	1	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	601154	601234	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179843;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000179843;rank=30;version=1
+1	ensembl	CDS	601154	601234	.	-	1	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	605962	606042	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179841;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000179841;rank=29;version=1
+1	ensembl	CDS	605962	606042	.	-	1	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	606058	606100	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179838;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000179838;rank=28;version=1
+1	ensembl	CDS	606058	606100	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	606268	606366	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179836;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179836;rank=27;version=1
+1	ensembl	CDS	606268	606366	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	610007	610108	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179832;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179832;rank=26;version=1
+1	ensembl	CDS	610007	610108	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	610849	610931	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179831;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000179831;rank=25;version=1
+1	ensembl	CDS	610849	610931	.	-	1	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	611335	611461	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179828;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000179828;rank=24;version=1
+1	ensembl	CDS	611335	611461	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	612266	612544	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179825;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179825;rank=23;version=1
+1	ensembl	CDS	612266	612544	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	613311	613423	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179823;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000179823;rank=22;version=1
+1	ensembl	CDS	613311	613423	.	-	1	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	615145	615328	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179821;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000179821;rank=21;version=1
+1	ensembl	CDS	615145	615328	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	617382	617678	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179819;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179819;rank=20;version=1
+1	ensembl	CDS	617382	617678	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	617873	617986	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179817;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179817;rank=19;version=1
+1	ensembl	CDS	617873	617986	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	618768	618881	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179815;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179815;rank=18;version=1
+1	ensembl	CDS	618768	618881	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	620487	620600	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179813;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179813;rank=17;version=1
+1	ensembl	CDS	620487	620600	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	621124	621187	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179812;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000179812;rank=16;version=1
+1	ensembl	CDS	621124	621187	.	-	0	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	627036	627100	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179811;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000179811;rank=15;version=1
+1	ensembl	CDS	627036	627100	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	627379	627552	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179809;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179809;rank=14;version=1
+1	ensembl	CDS	627379	627552	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	627767	627880	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179808;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179808;rank=13;version=1
+1	ensembl	CDS	627767	627880	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	628007	628123	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179805;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179805;rank=12;version=1
+1	ensembl	CDS	628007	628123	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	628327	628443	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179803;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179803;rank=11;version=1
+1	ensembl	CDS	628327	628443	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	629615	629731	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179801;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179801;rank=10;version=1
+1	ensembl	CDS	629615	629731	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	630213	630326	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179800;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179800;rank=9;version=1
+1	ensembl	CDS	630213	630326	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	630472	630622	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179798;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000179798;rank=8;version=1
+1	ensembl	CDS	630472	630622	.	-	0	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	630733	630806	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179796;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000179796;rank=7;version=1
+1	ensembl	CDS	630733	630806	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	641374	641585	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179794;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000179794;rank=6;version=1
+1	ensembl	CDS	641374	641585	.	-	1	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	642238	642331	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179793;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000179793;rank=5;version=1
+1	ensembl	CDS	642238	642331	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	643252	643377	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179791;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000179791;rank=4;version=1
+1	ensembl	CDS	643252	643377	.	-	2	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	645798	645960	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179790;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000179790;rank=3;version=1
+1	ensembl	CDS	645798	645960	.	-	0	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	646554	646694	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179787;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000179787;rank=2;version=1
+1	ensembl	CDS	646554	646694	.	-	0	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	CDS	648827	649114	.	-	0	ID=CDS:ENSOARP00000019478;Parent=transcript:ENSOART00000019749;protein_id=ENSOARP00000019478
+1	ensembl	exon	648827	649127	.	-	.	Parent=transcript:ENSOART00000019749;Name=ENSOARE00000179785;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=ENSOARE00000179785;rank=1;version=1
+1	ensembl	five_prime_UTR	649115	649127	.	-	.	Parent=transcript:ENSOART00000019749
+1	.	biological_region	609949	610122	0.989	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	610488	611367	0.991	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	611441	612402	0.94	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	615000	615503	271	.	.	external_name=oe %3D 0.77;logic_name=cpg
+1	.	biological_region	615145	615752	0.961	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	616400	617394	1	-	.	external_name=rank %3D 5;logic_name=firstef
+1	.	biological_region	616568	617394	1	-	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	616629	617394	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	617267	617863	538	.	.	external_name=oe %3D 0.81;logic_name=cpg
+1	.	biological_region	617268	617394	1	-	.	external_name=rank %3D 4;logic_name=firstef
+1	.	biological_region	617297	617394	1	-	.	external_name=rank %3D 3;logic_name=firstef
+1	.	biological_region	617788	618813	1	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	618532	618977	185	.	.	external_name=oe %3D 0.71;logic_name=cpg
+1	.	biological_region	620544	621169	0.861	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	621124	621218	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	622594	622665	22.1	-	.	external_name=SeC;logic_name=trnascan
+1	.	biological_region	627767	627950	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	628348	628522	0.998	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	648268	649064	0.584	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	648975	648975	0.999	-	.	logic_name=eponine
+1	.	biological_region	663839	663911	40.3	+	.	external_name=Pseudo;logic_name=trnascan
+1	.	biological_region	669595	669823	0.913	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	675128	675214	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	675654	676464	0.997	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	678753	679362	273	.	.	external_name=oe %3D 0.72;logic_name=cpg
+1	.	biological_region	679110	679186	0.573	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	679197	679199	0.999	-	.	logic_name=eponine
+1	.	biological_region	679367	680201	0.993	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	680055	680816	0.999	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	682167	682171	0.999	+	.	logic_name=eponine
+1	.	biological_region	682845	683387	520	.	.	external_name=oe %3D 0.94;logic_name=cpg
+1	.	biological_region	686551	687567	0.757	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	688128	688998	0.971	+	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	689214	690678	300	.	.	external_name=oe %3D 0.60;logic_name=cpg
+1	ensembl	gene	689536	738799	.	-	.	ID=gene:ENSOARG00000018219;Name=CROCC2;biotype=protein_coding;description=ciliary rootlet coiled-coil%2C rootletin family member 2 [Source:HGNC Symbol%3BAcc:HGNC:51677];gene_id=ENSOARG00000018219;logic_name=ensembl;version=1
+1	ensembl	mRNA	689536	738799	.	-	.	ID=transcript:ENSOART00000019824;Parent=gene:ENSOARG00000018219;Name=CROCC2-201;biotype=protein_coding;transcript_id=ENSOART00000019824;version=1
+1	ensembl	exon	689536	689601	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180567;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000180567;rank=38;version=1
+1	ensembl	CDS	689536	689601	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	691223	691402	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180565;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000180565;rank=37;version=1
+1	ensembl	CDS	691223	691402	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	697252	697282	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180564;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000180564;rank=36;version=1
+1	ensembl	CDS	697252	697282	.	-	1	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	697658	697670	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180561;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000180561;rank=35;version=1
+1	ensembl	CDS	697658	697670	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	698210	698238	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180560;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000180560;rank=34;version=1
+1	ensembl	CDS	698210	698238	.	-	1	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	701028	701115	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180558;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000180558;rank=33;version=1
+1	ensembl	CDS	701028	701115	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	703652	703714	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180556;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000180556;rank=32;version=1
+1	ensembl	CDS	703652	703714	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	703750	703978	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180554;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000180554;rank=31;version=1
+1	ensembl	CDS	703750	703978	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	704175	704200	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180553;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000180553;rank=30;version=1
+1	ensembl	CDS	704175	704200	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	704821	704904	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180549;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000180549;rank=29;version=1
+1	ensembl	CDS	704821	704904	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	705193	705427	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180548;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000180548;rank=28;version=1
+1	ensembl	CDS	705193	705427	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	705439	705504	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180546;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000180546;rank=27;version=1
+1	ensembl	CDS	705439	705504	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	706289	706441	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180543;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000180543;rank=26;version=1
+1	ensembl	CDS	706289	706441	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	707385	707544	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180542;constitutive=1;ensembl_end_phase=0;ensembl_phase=2;exon_id=ENSOARE00000180542;rank=25;version=1
+1	ensembl	CDS	707385	707544	.	-	1	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	708908	708985	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180539;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000180539;rank=24;version=1
+1	ensembl	CDS	708908	708985	.	-	1	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	709826	709904	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180538;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000180538;rank=23;version=1
+1	ensembl	CDS	709826	709904	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	712119	712184	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180537;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=ENSOARE00000180537;rank=22;version=1
+1	ensembl	CDS	712119	712184	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	712251	712377	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180535;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000180535;rank=21;version=1
+1	ensembl	CDS	712251	712377	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	715451	715510	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180533;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000180533;rank=20;version=1
+1	ensembl	CDS	715451	715510	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	717805	717854	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180532;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000180532;rank=19;version=1
+1	ensembl	CDS	717805	717854	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	720034	720202	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180530;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000180530;rank=18;version=1
+1	ensembl	CDS	720034	720202	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	720835	720983	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180527;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000180527;rank=17;version=1
+1	ensembl	CDS	720835	720983	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	721344	721471	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180524;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000180524;rank=16;version=1
+1	ensembl	CDS	721344	721471	.	-	1	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	724526	724812	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180523;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000180523;rank=15;version=1
+1	ensembl	CDS	724526	724812	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	728642	728689	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180521;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000180521;rank=14;version=1
+1	ensembl	CDS	728642	728689	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	729306	729389	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180519;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000180519;rank=13;version=1
+1	ensembl	CDS	729306	729389	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	729692	729838	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180517;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000180517;rank=12;version=1
+1	ensembl	CDS	729692	729838	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	730247	730405	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180515;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=ENSOARE00000180515;rank=11;version=1
+1	ensembl	CDS	730247	730405	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	731585	731721	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180514;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000180514;rank=10;version=1
+1	ensembl	CDS	731585	731721	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	733068	733093	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180511;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000180511;rank=9;version=1
+1	ensembl	CDS	733068	733093	.	-	1	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	733260	733538	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180510;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000180510;rank=8;version=1
+1	ensembl	CDS	733260	733538	.	-	1	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	733555	733673	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180508;constitutive=1;ensembl_end_phase=2;ensembl_phase=0;exon_id=ENSOARE00000180508;rank=7;version=1
+1	ensembl	CDS	733555	733673	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	733702	733796	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180507;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=ENSOARE00000180507;rank=6;version=1
+1	ensembl	CDS	733702	733796	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	733993	734159	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180506;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=ENSOARE00000180506;rank=5;version=1
+1	ensembl	CDS	733993	734159	.	-	1	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	734847	735044	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180504;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000180504;rank=4;version=1
+1	ensembl	CDS	734847	735044	.	-	1	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	736389	736403	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180503;constitutive=1;ensembl_end_phase=2;ensembl_phase=2;exon_id=ENSOARE00000180503;rank=3;version=1
+1	ensembl	CDS	736389	736403	.	-	1	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	736806	736821	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180502;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=ENSOARE00000180502;rank=2;version=1
+1	ensembl	CDS	736806	736821	.	-	2	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	ensembl	exon	738622	738799	.	-	.	Parent=transcript:ENSOART00000019824;Name=ENSOARE00000180500;constitutive=1;ensembl_end_phase=1;ensembl_phase=0;exon_id=ENSOARE00000180500;rank=1;version=1
+1	ensembl	CDS	738622	738799	.	-	0	ID=CDS:ENSOARP00000019551;Parent=transcript:ENSOART00000019824;protein_id=ENSOARP00000019551
+1	.	biological_region	693846	694713	465	.	.	external_name=oe %3D 0.69;logic_name=cpg
+1	.	biological_region	694027	694320	1	-	.	external_name=rank %3D 1;logic_name=firstef
+1	.	biological_region	694654	694766	1	+	.	external_name=rank %3D 2;logic_name=firstef
+1	.	biological_region	694664	695310	1	+	.	external_name=rank %3D 5;logic_name=firstef
+1	.	biological_region	694664	695508	1	+	.	external_name=rank %3D 3;logic_name=firstef
+1	.	biological_region	694665	694922	1	+	.	external_name=rank %3D 4;logic_name=firstef
+1	.	biological_region	694665	695005	1	+	.	external_name=rank %3D 1;logic_name=firstef
